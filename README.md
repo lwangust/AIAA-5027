@@ -3,7 +3,7 @@
 ## Course information
 
 * Instructor: WANG Lin (linwang@ust.hk)
-* TAs: SU ying (ysuay@connect.ust.hk) and ZHU Qingyan (qzhuai@connect.ust.hk)
+* TAs: SU Ying (ysuay@connect.ust.hk) and ZHU Qingyan (qzhuai@connect.ust.hk)
 
 Office Hours: BY appointment only.
 
