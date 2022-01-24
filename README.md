@@ -27,8 +27,8 @@
 | 3/10 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  |  (1) Persenation (2) Review due 3/13 (3) Project proposal kick-off (one page) |
 | 3/15 |Deep learning for image restoration and enhancement (II) Super-resolution, HDR imaging |   |
 | 3/17 |Deep learning for image restoration and enhancement (II) Super-resolution, HDR imaging  |  (1) Persenation (2) Review due 3/20 |
-| 3/22 |Deep learning for scene understanding (I) Object detection tracking |  |
-| 3/24 |Deep learning for scene understanding (I) Object detection tracking | Project mid-term presentation |
+| 3/22 |Deep learning for scene understanding (I) Object detection & tracking |  |
+| 3/24 |Deep learning for scene understanding (I) Object detection & tracking | Project mid-term presentation |
 | 3/29 |Deep learning for scene understanding (II) Semantic segmentation  |  |
 | 3/31 |Deep learning for scene understanding (II) Semantic segmentation  | (1) Persenation (2) Review due 4/3 |
 | 4/5 |Computer vision with novel cameras (I) Event camera-based vision  |  |
