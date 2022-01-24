@@ -4,8 +4,7 @@
 
 * Instructor: WANG Lin (linwang@ust.hk)
 * TAs: SU Ying (ysuay@connect.ust.hk) and ZHU Qingyan (qzhuai@connect.ust.hk)
-
-Office Hours: BY appointment only.
+* Office Hours: BY appointment only.
 
 ## Grading Policy 
 - Paper summary (10%)
