@@ -6,7 +6,7 @@
 * TAs: SU Ying (ysuay@connect.ust.hk) and ZHU Qingyan (qzhuai@connect.ust.hk)
 * Office Hours: BY appointment only.
 
-## Grading Policy 
+## Grading policy 
 - Paper summary (10%)
 - Paper presentation and discussion (30%)
 - Group project and paper submission (50%)
