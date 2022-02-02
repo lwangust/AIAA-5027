@@ -48,4 +48,7 @@
 ##  Reading list
 
 ### DNN models in computer vision
-
+[Kingma and Welling 14] Auto-Encoding Variational Bayes, ICLR 2014.
+[Kingma et al. 15] Variational Dropout and the Local Reparameterization Trick, NIPS 2015.
+[Blundell et al. 15] Weight Uncertainty in Neural Networks, ICML 2015.
+[Gal and Ghahramani 16] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning, ICML 2016.
