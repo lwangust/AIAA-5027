@@ -47,8 +47,30 @@
 
 ##  Reading list
 
-### DNN models in computer vision
-[Kingma and Welling 14] Auto-Encoding Variational Bayes, ICLR 2014.
-[Kingma et al. 15] Variational Dropout and the Local Reparameterization Trick, NIPS 2015.
-[Blundell et al. 15] Weight Uncertainty in Neural Networks, ICML 2015.
-[Gal and Ghahramani 16] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning, ICML 2016.
+### DNN models in computer vision (VAEs, GANs, RNNs)
+#### VAEs
+[[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114v10.pdf) Auto-Encoding Variational Bayes, ICLR 2014. </br>
+[[Kingma et al. 15]](https://arxiv.org/pdf/1506.02557.pdf) Variational Dropout and the Local Reparameterization Trick, NIPS 2015.</br>
+[[Blundell et al. 15]](https://arxiv.org/pdf/1505.05424.pdf) Weight Uncertainty in Neural Networks, ICML 2015.</br>
+[[Gal and Ghahramani 16]](http://proceedings.mlr.press/v48/gal16.pdf) Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning, ICML 2016. </br>
+
+#### GANs
+[Goodfellow et al. 14] Generative Adversarial Nets, NIPS 2014. </br>
+[Radford et al. 15] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR 2016. </br>
+[Chen et al. 16] InfoGAN: Interpreting Representation Learning by Information Maximizing Generative Adversarial Nets, NIPS 2016. </br>
+[Arjovsky et al. 17] Wasserstein Generative Adversarial Networks, ICML 2017. </br>
+[Zhu et al. 17] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, ICCV 2017.</br>
+[Karras et al. 18] Progressive Growing of GANs for Improved Quality, Stability, and Variation, ICLR 2018. </br>
+[Choi et al. 18] StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation, CVPR 2018.  </br>
+[Brock et al. 19] Large Scale GAN Training for High-Fidelity Natural Image Synthesis, ICLR 2019. </br>
+[Karras et al. 19] A Style-Based Generator Architecture for Generative Adversarial Networks, CVPR 2019. </br>
+[Karras et al. 20] Analyzing and Improving the Image Quality of StyleGAN, CVPR 2020. </br>
+[Sinha et al. 20] Small-GAN: Speeding up GAN Training using Core-Sets, ICML 2020. </br> 
+[Karras et al. 20] Training Generative Adversarial Networks with Limited Data, NeurIPS 2020. </br> 
+[Liu et al. 21] Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis, ICLR 2021. </br>
+[Hudson and Zitnick 21] Generative Adversarial Transformers, ICML 2021. </br>
+[Karras et al. 21] Alias-Free GAN, arXiv preprint, 2021.  </br>
+ 
+#### RNNs
+
+
