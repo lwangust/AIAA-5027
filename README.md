@@ -80,5 +80,33 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Wang et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_TransferI2I_Transfer_Learning_for_Image-to-Image_Translation_From_Small_Datasets_ICCV_2021_paper.pdf) TransferI2I: Transfer Learning for Image-to-Image Translation from Small Datasets, ICCV, 2021. </br>
 [[Yang et al. 21]](https://arxiv.org/pdf/2111.10346.pdf) Global and Local Alignment Networks for Unpaired Image-to-Image Translation, Arxiv 2021. 
 
+### Learning methods in computer vision
+#### Knowledge transfer 
+[[Wang et al. 21]](https://arxiv.org/pdf/2004.05937v7.pdf) Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks, TPAMI, 2021. </br>
+[[Hiton et al. 15]](https://arxiv.org/pdf/1503.02531.pdf) Distilling the Knowledge in a Neural Network, NIPS Workshop, 2015. </br>
+[[Romero et al. 15]](https://arxiv.org/pdf/1412.6550.pdf) FitNets: Hints for Thin Deep Nets, ICLR, 2015. </br>
+[[Gupta et al. 16]](https://arxiv.org/pdf/1507.00448.pdf) Cross Modal Distillation for Supervision Transfer, CVPR, 2016.    </br>
+[[Zagoruyko et al. 16]](https://arxiv.org/pdf/1612.03928.pdf)  Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer, ICLR, 2017.  </br>
+[[Furlanello et al. 18]](https://arxiv.org/abs/1805.04770) Born Again Neural Networks, ICML, 2018.   </br>
+[[Zhang et al. 18]](https://arxiv.org/pdf/1706.00384.pdf) Deep Mutual Learning, CVPR,2018.  </br>
+[[Tarvainen et al. 18]](https://arxiv.org/pdf/1703.01780.pdf)Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results, NIPS, 2018.  </br>
+[[Zhang et al. 19]](https://arxiv.org/pdf/1905.08094.pdf)  Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation, ICCV, 2019.  </br> 
+[[Heo et al. 19]](https://arxiv.org/pdf/1904.01866.pdf) A Comprehensive Overhaul of Feature Distillation, ICCV, 2019.  </br>
+[[Tung et al.19]](https://arxiv.org/pdf/1907.09682.pdf) Similarity-Preserving Knowledge Distillation, ICCV, 2019.   </br>
+[[Chen et al. 19]](https://www.wangyunhe.site/data/2019%20ICCV%20DAFL.pdf) DAFL:Data-Free Learning of Student Networks, ICCV, 2019. </br>
+[[Ahn et al. 19]](https://arxiv.org/pdf/1904.05835.pdf) Variational Information Distillation for Knowledge Transfer, CVPR, 2019.  </br>
+[[Tian et al. 20]](https://arxiv.org/pdf/1910.10699v2.pdf)  Contrastive Representation Distillation, ICLR, 2020.  </br>
+[[Fang et al. 20]](https://arxiv.org/pdf/1912.11006.pdf) Data-Free Adversarial Distillation, CVPR, 2020.  </br>
+[[Yang et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460290.pdf) MutualNet: Adaptive ConvNet via Mutual Learning from Network Width and Resolution, ECCV, 2020. </br>
+[[Yao et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600290.pdf) Knowledge Transfer via Dense Cross-layer Mutual-distillation. ECCV 2020 </br>
+[[Guo et al. 20]](https://arxiv.org/pdf/2010.07485.pdf) Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation, Arxiv, 2020.  </br>
+[[Ji et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Refine_Myself_by_Teaching_Myself_Feature_Refinement_via_Self-Knowledge_Distillation_CVPR_2021_paper.pdf) Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation, CVPR, 2021. </br>
+[[Liu et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Source-Free_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2021_paper.pdf) Source-Free Domain Adaptation for Semantic Segmentation, CVPR, 2021. </br>
+[[Chen et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Learning_Student_Networks_in_the_Wild_CVPR_2021_paper.pdf) Learning Student Networks in the Wild, CVPR, 2021. </br>
+[[Xue et a. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xue_Multimodal_Knowledge_Expansion_ICCV_2021_paper.pdf) Multimodal Knowledge Expansion，ICCV, 2021. </br>
+[[ZHu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Student_Customized_Knowledge_Distillation_Bridging_the_Gap_Between_Student_and_ICCV_2021_paper.pdf) Student Customized Knowledge Distillation: Bridging the Gap Between Student and Teacher, ICCV,  2021. </br>
+[[Kim et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Self-Knowledge_Distillation_With_Progressive_Refinement_of_Targets_ICCV_2021_paper.pdf) Self-Knowledge Distillation with Progressive Refinement of Targets, ICCV, 2021.   </br>
+[[Son et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Son_Densely_Guided_Knowledge_Distillation_Using_Multiple_Teacher_Assistants_ICCV_2021_paper.pdf)  Densely Guided Knowledge Distillation using Multiple Teacher Assistants, ICCV, 2021.  </br>
 
+#### Domain Adaptation
 
