@@ -175,3 +175,8 @@ Unsupervised Multi-source Domain Adaptation Without Access to Source Data, CVPR,
 [[Hu et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_SimPLE_Similar_Pseudo_Label_Exploitation_for_Semi-Supervised_Classification_CVPR_2021_paper.pdf) SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification,CVPR,2021. </br>
  [[Zhou et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_C3-SemiSeg_Contrastive_Semi-Supervised_Segmentation_via_Cross-Set_Learning_and_Dynamic_Class-Balancing_ICCV_2021_paper.pdf) Pixel Contrastive-Consistent Semi-Supervised Semantic Segmentation, ICCV, 2021. </br>
 [[Xiong et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiong_Multiview_Pseudo-Labeling_for_Semi-Supervised_Learning_From_Video_ICCV_2021_paper.pdf) Multiview Pseudo-Labeling for Semi-supervised Learning from Video, ICCV, 2021. </br>
+
+*** Image restoration and enhancement 
+
+[[Chan et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_BasicVSR_The_Search_for_Essential_Components_in_Video_Super-Resolution_and_CVPR_2021_paper.pdf) BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond, ICCV, 2021. </br> 
+[[Yi et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yi_Omniscient_Video_Super-Resolution_ICCV_2021_paper.pdf)  Omniscient Video Super-Resolution, ICCV, 2021. </br> 
