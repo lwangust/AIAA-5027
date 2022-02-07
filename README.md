@@ -191,7 +191,27 @@ Unsupervised Multi-source Domain Adaptation Without Access to Source Data, CVPR,
 [[Kupyn et al. 19]](https://arxiv.org/pdf/1908.03826.pdf) DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better, ICCV, 2019.  </br>
 [[Zhang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Deblurring_by_Realistic_Blurring_CVPR_2020_paper.pdf) Deblurring by Realistic Blurring, CVPR, 2020.  </br> 
 [[Zhou et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Spatio-Temporal_Filter_Adaptive_Network_for_Video_Deblurring_ICCV_2019_paper.pdf) Spatio-Temporal Filter Adaptive Network for Video Deblurring, ICCV, 2019.  </br> 
-[[ Nah et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.pdf) Recurrent Neural Networks with Intra-Frame Iterations for Video Deblurring, CVPR, 2019.  </br> 
+[[Nah et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.pdf) Recurrent Neural Networks with Intra-Frame Iterations for Video Deblurring, CVPR, 2019.  </br> 
+[[Purohit et al. 20]](https://arxiv.org/pdf/1903.11394.pdf) Region-Adaptive Dense Network for Efficient Motion Deblurring, AAAI,2020. (SoTA of single image deblur on GoPro dataset) </br> 
+[[Shen et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Shen_Human-Aware_Motion_Deblurring_ICCV_2019_paper.pdf)  Human-Aware Motion Deblurring, ICCV, 2019. </br> 
+
+---- 
+
+[[Rim et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700188.pdf)  Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms, ECCV, 2020. </br> 
+[[Lin et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf) Learning Event-Driven Video Deblurring and Interpolation, ECCV, 2020.   </br> 
+[[Zhong et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510188.pdf)  Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring, ECCV, 2020.  </br> 
+[[Abuolaim et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550120.pdf)  Defocus Deblurring Using Dual-Pixel Data, ECCV, 2020.  </br> 
+[[Cun et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580732.pdf) Defocus Blur Detection via Depth Distillation, ECCV, 2020.   </br> 
+[[Chen et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Learning_a_Non-Blind_Deblurring_Network_for_Night_Blurry_Images_CVPR_2021_paper.pdf) Learning a Non-blind Deblurring Network for Night Blurry Images, CVPR, 2021.   </br> 
+[[Rozumnyi et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Rozumnyi_DeFMO_Deblurring_and_Shape_Recovery_of_Fast_Moving_Objects_CVPR_2021_paper.pdf) DeFMO: Deblurring and Shape Recovery of Fast Moving Objects, CVPR, 2021.  </br> 
+[[Xu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.pdf)  Motion Deblurring with Real Events, ICCV, 2021.  </br> 
+[[Cho et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Cho_Rethinking_Coarse-To-Fine_Approach_in_Single_Image_Deblurring_ICCV_2021_paper.pdf) Rethinking Coarse-to-Fine Approach in Single Image Deblurring, ICCV, 2021.  </br> 
+[[Shang et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Bringing_Events_Into_Video_Deblurring_With_Non-Consecutively_Blurry_Frames_ICCV_2021_paper.pdf)  Bringing Events into Video Deblurring with Non-consecutively Blurry Frames, ICCV, 2021.   </br> 
+[[Deng et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Deng_Multi-Scale_Separable_Network_for_Ultra-High-Definition_Video_Deblurring_ICCV_2021_paper.pdf) Multi-Scale Separable Network for Ultra-High-Definition Video Deblurring, ICCV, 2021.  </br> 
+[[Hu et al 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_Pyramid_Architecture_Search_for_Real-Time_Image_Deblurring_ICCV_2021_paper.pdf)  Pyramid Architecture Search for Real-Time Image Deblurring, ICCV, 2021.  </br> 
+
+#### Image deraining 
+
 
 ####  Image/Video Super-Resolution 
 [[Chan et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_BasicVSR_The_Search_for_Essential_Components_in_Video_Super-Resolution_and_CVPR_2021_paper.pdf) BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond, ICCV, 2021. </br> 
