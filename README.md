@@ -5,7 +5,7 @@
 * Instructor: WANG Lin (linwang@ust.hk)
 * TAs: SU Ying (ysuay@connect.ust.hk) and ZHU Qingyan (qzhuai@connect.ust.hk)
 * Office Hours: BY appointment only.
-* 
+
 ## Course description
 
 This is a task-oriented yet interaction-based course, which aims to scrutinize the recent trends and challenges of deep learning in visual intelligence tasks (learning methods, high- and low-level vision problems). This course will follow the way of flipped-classroom manner where the lecturer teaches the basics; meanwhile, the students will also be focused on active discussions, presentations (lecturing), and hands-on research projects under the guidance of the lecturer in the whole semester. Through this course, students will be equipped with the capability to critically challenge the existing methodologies/techniques and hopefully make breakthroughs in some new research directions.
