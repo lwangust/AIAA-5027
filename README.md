@@ -185,7 +185,13 @@ Unsupervised Multi-source Domain Adaptation Without Access to Source Data, CVPR,
 #### Image Deblurring 
 [[Xu et al. 14]](https://papers.nips.cc/paper/2014/file/1c1d4df596d01da60385f0bb17a4a9e0-Paper.pdf) Deep Convolutional Neural Network for Image Deconvolution, NIPS, 2014. </br>
 [[Zhang et al. 22]](https://arxiv.org/pdf/2201.10700.pdf) Deep Image Deblurring: A Survey, Arxiv, 2022. </br> 
-[[Dong et al. 21]](https://arxiv.org/pdf/2103.09962.pdf) Deep Wiener Deconvolution: Wiener Meets Deep Learning for Image Deblurring, NIPS, 2021.
+[[Dong et al. 21]](https://arxiv.org/pdf/2103.09962.pdf) Deep Wiener Deconvolution: Wiener Meets Deep Learning for Image Deblurring, NIPS, 2021. </br> 
+[[Nimisha et al., 17]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Nimisha_Blur-Invariant_Deep_Learning_ICCV_2017_paper.pdf) Blur-Invariant Deep Learning for Blind-Deblurring, ICCV, 2017. </br> 
+[[Nah et al. 17]](https://arxiv.org/pdf/1612.02177.pdf) Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring, CVPR, 2017.  </br> 
+[[Kupyn et al. 19]](https://arxiv.org/pdf/1908.03826.pdf) DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better, ICCV, 2019.  </br>
+[[Zhang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Deblurring_by_Realistic_Blurring_CVPR_2020_paper.pdf) Deblurring by Realistic Blurring, CVPR, 2020.  </br> 
+[[Zhou et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Spatio-Temporal_Filter_Adaptive_Network_for_Video_Deblurring_ICCV_2019_paper.pdf) Spatio-Temporal Filter Adaptive Network for Video Deblurring, ICCV, 2019.  </br> 
+[[ Nah et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nah_Recurrent_Neural_Networks_With_Intra-Frame_Iterations_for_Video_Deblurring_CVPR_2019_paper.pdf) Recurrent Neural Networks with Intra-Frame Iterations for Video Deblurring, CVPR, 2019.  </br> 
 
 ####  Image/Video Super-Resolution 
 [[Chan et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_BasicVSR_The_Search_for_Essential_Components_in_Video_Super-Resolution_and_CVPR_2021_paper.pdf) BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond, ICCV, 2021. </br> 
