@@ -4,6 +4,7 @@
 
 * Instructor: WANG Lin (linwang@ust.hk)
 * TAs: SU Ying (ysuay@connect.ust.hk) and ZHU Qingyan (qzhuai@connect.ust.hk)
+* Class time: Tuesday & Thursday 16.30 -17.50 
 * Office Hours: BY appointment only.
 
 ## Course description
