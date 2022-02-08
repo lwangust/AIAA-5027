@@ -212,7 +212,9 @@ Unsupervised Multi-source Domain Adaptation Without Access to Source Data, CVPR,
 [[Hu et al 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_Pyramid_Architecture_Search_for_Real-Time_Image_Deblurring_ICCV_2021_paper.pdf)  Pyramid Architecture Search for Real-Time Image Deblurring, ICCV, 2021.  </br> 
 
 #### Image deraining 
-
+[[Li et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Single_Image_Deraining_A_Comprehensive_Benchmark_Analysis_CVPR_2019_paper.pdf) Single Image Deraining: A Comprehensive Benchmark Analysis, CVPR, 2019. </br>
+[[Li  et al. 21]](https://link.springer.com/content/pdf/10.1007/s11263-020-01416-w.pdf) A Comprehensive Benchmark Analysis of Single Image Deraining:
+Current Challenges and Future Perspectives, IJCV, 2021. 
 
 ####  Image/Video Super-Resolution 
 [[Chan et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_BasicVSR_The_Search_for_Essential_Components_in_Video_Super-Resolution_and_CVPR_2021_paper.pdf) BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond, ICCV, 2021. </br> 
