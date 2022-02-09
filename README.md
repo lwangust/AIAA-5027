@@ -214,10 +214,27 @@ Unsupervised Multi-source Domain Adaptation Without Access to Source Data, CVPR,
 #### Image deraining 
 [[Li et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Single_Image_Deraining_A_Comprehensive_Benchmark_Analysis_CVPR_2019_paper.pdf) Single Image Deraining: A Comprehensive Benchmark Analysis, CVPR, 2019. </br>
 [[Li  et al. 21]](https://link.springer.com/content/pdf/10.1007/s11263-020-01416-w.pdf) A Comprehensive Benchmark Analysis of Single Image Deraining:
-Current Challenges and Future Perspectives, IJCV, 2021. 
-[[Yang et al. 17]](https://arxiv.org/pdf/1609.07769.pdf) Deep Joint Rain Detection and Removal from a Single Image, CVPR, 2017.
-[[Zhang et al. 18]](https://arxiv.org/pdf/1802.07412.pdf) Density-aware Single Image De-raining using a Multi-stream Dense Network, CVPR, 2018.
-[[]](url) 
+Current Challenges and Future Perspectives, IJCV, 2021.   </br> 
+[[Yang et al. 17]](https://arxiv.org/pdf/1609.07769.pdf) Deep Joint Rain Detection and Removal from a Single Image, CVPR, 2017.  </br> 
+[[Zhang et al. 18]](https://arxiv.org/pdf/1802.07412.pdf) Density-aware Single Image De-raining using a Multi-stream Dense Network, CVPR, 2018.  </br> 
+[[Hu et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf)   Depth-attentional features for single-image rain removal, CVPR, 2019.  </br> 
+[[Qian et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)  Attentive Generative Adversarial Network for Raindrop Removal from A Single Image, CVPR, 2018.  </br> 
+[[Zhang et al. 19]](https://arxiv.org/pdf/1701.05957.pdf)  Image de-raining using a conditional generative adversarial network, IEEE n IEEE transactions on circuits and systems for video technology, 2019.  </br> 
+[[Wei et al. 19]](https://arxiv.org/pdf/1807.11078.pdf) Semi-supervised Transfer Learning for Image Rain Removal, CVPR, 2019.  </br> 
+
+--- 
+[[Yasarla et al. 20]](https://arxiv.org/pdf/2006.05580.pdf)  Syn2Real Transfer Learning for Image Deraining using Gaussian Processes, CVPR, 2020.   </br> 
+[[Liu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.pdf) Unpaired Learning for Deep Image Deraining with Rain Direction Regularizer, ICCV, 2021. </br> 
+[[Zhou et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Image_De-Raining_via_Continual_Learning_CVPR_2021_paper.pdf)  Image De-raining via Continual Learning, CVPR, 2021.   </br> 
+[[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Multi-Decoding_Deraining_Network_and_Quasi-Sparsity_Based_Training_CVPR_2021_paper.pdf) Multi-Decoding Deraining Network and Quasi-Sparsity Based Training, CVPR, 2021.  </br> 
+[[Chen et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Robust_Representation_Learning_With_Feedback_for_Single_Image_Deraining_CVPR_2021_paper.pdf)  Robust Representation Learning with Feedback for Single Image Deraining, CVPR, 2021.  </br> 
+[[Yue et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Semi-Supervised_Video_Deraining_With_Dynamical_Rain_Generator_CVPR_2021_paper.pdf)  Semi-Supervised Video Deraining with Dynamical Rain Generator, CVPR, 2021.   </br> 
+[[Yi et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yi_Structure-Preserving_Deraining_With_Residue_Channel_Prior_Guidance_ICCV_2021_paper.pdf) Structure-Preserving Deraining with Residue Channel Prior Guidance, ICCV,2021.   </br> 
+[[Huang et a. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Memory_Oriented_Transfer_Learning_for_Semi-Supervised_Image_Deraining_CVPR_2021_paper.pdf) Memory Oriented Transfer Learning for Semi-Supervised Image Deraining, CVPR, 2021.  </br> 
+[[Chen et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.pdf)  Pre-Trained Image Processing Transformer, CVPR, 2021.  </br> 
+[[Jiang et al. 21]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Multi-Scale_Progressive_Fusion_Network_for_Single_Image_Deraining_CVPR_2020_paper.pdf)  Multi-Scale Progressive Fusion Network for Single Image Deraining, CVPR, 2020.   </br> 
+[[Fu et al. 20]](https://arxiv.org/pdf/1805.06173.pdf)  Lightweight Pyramid Networks for Image Deraining, IEEE Transactions on Neural Networks and Learning Systems, 2020.
+
 
 ####  Image/Video Super-Resolution 
 [[Chan et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_BasicVSR_The_Search_for_Essential_Components_in_Video_Super-Resolution_and_CVPR_2021_paper.pdf) BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond, ICCV, 2021. </br> 
