@@ -215,9 +215,13 @@ Unsupervised Multi-source Domain Adaptation Without Access to Source Data, CVPR,
 [[Li et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Single_Image_Deraining_A_Comprehensive_Benchmark_Analysis_CVPR_2019_paper.pdf) Single Image Deraining: A Comprehensive Benchmark Analysis, CVPR, 2019. </br>
 [[Li  et al. 21]](https://link.springer.com/content/pdf/10.1007/s11263-020-01416-w.pdf) A Comprehensive Benchmark Analysis of Single Image Deraining:
 Current Challenges and Future Perspectives, IJCV, 2021. 
+[[Yang et al. 17]](https://arxiv.org/pdf/1609.07769.pdf) Deep Joint Rain Detection and Removal from a Single Image, CVPR, 2017.
+[[Zhang et al. 18]](https://arxiv.org/pdf/1802.07412.pdf) Density-aware Single Image De-raining using a Multi-stream Dense Network, CVPR, 2018.
+[[]](urlg
 
 ####  Image/Video Super-Resolution 
 [[Chan et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_BasicVSR_The_Search_for_Essential_Components_in_Video_Super-Resolution_and_CVPR_2021_paper.pdf) BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond, ICCV, 2021. </br> 
 [[Yi et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yi_Omniscient_Video_Super-Resolution_ICCV_2021_paper.pdf)  Omniscient Video Super-Resolution, ICCV, 2021. </br> 
-
+[[Yang et al. 17]](url) Deep Joint Rain Detection and Removal from a Single Image, CVPR, 2017.
+[[Hu et al. 17]](url) Depth-Attentional Features for Single-Image Rain Removal, CVPR, 2019.
 
