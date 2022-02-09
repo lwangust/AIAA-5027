@@ -260,7 +260,7 @@ with Holistic Edges, IJCV, 2020. (Extension of the conference version at 2016) <
 [[Zheng et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf) Ultra-High-Defifinition Image Dehazing via Multi-Guided Bilateral Learning, CVPR, 2021. </br> 
 [[Chen et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf) PSD: Principled Synthetic-to-Real Dehazing Guided by Physical Priors, CVPR, 2021. </br> 
 [[Zhao et al. 21]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf) BidNet: Binocular Image Dehazing without Explicit Disparity Estimation, CVPR, 2021.   </br> 
-[[Kar et al. 21]](http://xxx.itp.ac.cn/pdf/2008.01701v1) Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing, CVPR, 2021.
+[[Kar et al. 21]](http://xxx.itp.ac.cn/pdf/2008.01701v1) Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing, CVPR, 2021. </br> 
 [[Li et al. 20]](https://ieeexplore.ieee.org/abstract/document/8902220) Semi-Supervised Image Dehazing, IEEE TIP, 2020.  </br> 
 [[Yi et al. 21]](https://arxiv.org/pdf/2102.03501.pdf)  Two-Step Image Dehazing with Intra-domain and Inter-domain Adaptation, Arxiv, 2021.
 
