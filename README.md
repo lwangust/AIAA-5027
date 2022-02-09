@@ -221,8 +221,8 @@ Current Challenges and Future Perspectives, IJCV, 2021.   </br>
 [[Qian et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)  Attentive Generative Adversarial Network for Raindrop Removal from A Single Image, CVPR, 2018.  </br> 
 [[Zhang et al. 19]](https://arxiv.org/pdf/1701.05957.pdf)  Image de-raining using a conditional generative adversarial network, IEEE transactions on circuits and systems for video technology, 2019.  </br> 
 [[Wei et al. 19]](https://arxiv.org/pdf/1807.11078.pdf) Semi-supervised Transfer Learning for Image Rain Removal, CVPR, 2019.  </br> 
-[[Yang et al. 17]](url) Deep Joint Rain Detection and Removal from a Single Image, CVPR, 2017.
-[[Hu et al. 17]](url) Depth-Attentional Features for Single-Image Rain Removal, CVPR, 2019.
+[[Yang et al. 17]](url) Deep Joint Rain Detection and Removal from a Single Image, CVPR, 2017. </br> 
+[[Hu et al. 17]](url) Depth-Attentional Features for Single-Image Rain Removal, CVPR, 2019. </br> 
 
 --- 
 [[Yasarla et al. 20]](https://arxiv.org/pdf/2006.05580.pdf)  Syn2Real Transfer Learning for Image Deraining using Gaussian Processes, CVPR, 2020.   </br> 
