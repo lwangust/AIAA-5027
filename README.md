@@ -221,6 +221,8 @@ Current Challenges and Future Perspectives, IJCV, 2021.   </br>
 [[Qian et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)  Attentive Generative Adversarial Network for Raindrop Removal from A Single Image, CVPR, 2018.  </br> 
 [[Zhang et al. 19]](https://arxiv.org/pdf/1701.05957.pdf)  Image de-raining using a conditional generative adversarial network, IEEE transactions on circuits and systems for video technology, 2019.  </br> 
 [[Wei et al. 19]](https://arxiv.org/pdf/1807.11078.pdf) Semi-supervised Transfer Learning for Image Rain Removal, CVPR, 2019.  </br> 
+[[Yang et al. 17]](url) Deep Joint Rain Detection and Removal from a Single Image, CVPR, 2017.
+[[Hu et al. 17]](url) Depth-Attentional Features for Single-Image Rain Removal, CVPR, 2019.
 
 --- 
 [[Yasarla et al. 20]](https://arxiv.org/pdf/2006.05580.pdf)  Syn2Real Transfer Learning for Image Deraining using Gaussian Processes, CVPR, 2020.   </br> 
@@ -233,12 +235,37 @@ Current Challenges and Future Perspectives, IJCV, 2021.   </br>
 [[Huang et a. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Memory_Oriented_Transfer_Learning_for_Semi-Supervised_Image_Deraining_CVPR_2021_paper.pdf) Memory Oriented Transfer Learning for Semi-Supervised Image Deraining, CVPR, 2021.  </br> 
 [[Chen et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Pre-Trained_Image_Processing_Transformer_CVPR_2021_paper.pdf)  Pre-Trained Image Processing Transformer, CVPR, 2021.  </br> 
 [[Jiang et al. 21]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Multi-Scale_Progressive_Fusion_Network_for_Single_Image_Deraining_CVPR_2020_paper.pdf)  Multi-Scale Progressive Fusion Network for Single Image Deraining, CVPR, 2020.   </br> 
-[[Fu et al. 20]](https://arxiv.org/pdf/1805.06173.pdf)  Lightweight Pyramid Networks for Image Deraining, IEEE Transactions on Neural Networks and Learning Systems, 2020.
+[[Fu et al. 20]](https://arxiv.org/pdf/1805.06173.pdf)  Lightweight Pyramid Networks for Image Deraining, IEEE Transactions on Neural Networks and Learning Systems, 2020. </br> 
 
+
+### Image dehazing
+[[Gui et al. 21]](https://arxiv.org/pdf/2106.03323.pdf) A Comprehensive Survey on Image Dehazing Based on Deep Learning, IJCAI, 2021.  </br> 
+[[Cai et al. 16]](https://arxiv.org/pdf/1601.07661.pdf) DehazeNet: An End-to-End System for Single Image Haze Removal, IEEE, TIP, 2016. </br> 
+[[Ren et al. 20]](https://link.springer.com/content/pdf/10.1007/s11263-019-01235-8.pdf) Single Image Dehazing via Multi-scale Convolutional Neural Networks
+with Holistic Edges, IJCV, 2020. (Extension of the conference version at 2016) </br> 
+[[Li et al. 17]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_AOD-Net_All-In-One_Dehazing_ICCV_2017_paper.pdf) AOD-Net: All-in-One Dehazing Network. </br> 
+[[Qin et al. 20]](https://arxiv.org/pdf/1911.07559.pdf) FFA-Net: Feature Fusion Attention Network for Single Image Dehazing, AAAI,2020. </br> 
+[[Zhang et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Densely_Connected_Pyramid_CVPR_2018_paper.pdf) Densely Connected Pyramid Dehazing Network, CVPR, 2018. </br> 
+[[Ren et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_Gated_Fusion_Network_CVPR_2018_paper.pdf)  Gated Fusion Network for Single Image Dehazing
+, CVPR, 2018. </br> 
+[[Qu et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Qu_Enhanced_Pix2pix_Dehazing_Network_CVPR_2019_paper.pdf) Enhanced Pix2pix Dehazing Network, CVPR, 2019.  </br> 
+[[Hong et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hong_Distilling_Image_Dehazing_With_Heterogeneous_Task_Imitation_CVPR_2020_paper.pdf)  Distilling Image Dehazing With Heterogeneous Task Imitation, CVPR, 2020.  </br> 
+[[Shao et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shao_Domain_Adaptation_for_Image_Dehazing_CVPR_2020_paper.pdf) Domain Adaptation for Image Dehazing, CVPR, 2020.  </br> 
+[[Engin et al. 18]]( https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w13/Engin_Cycle-Dehaze_Enhanced_CycleGAN_CVPR_2018_paper.pdf )Cycle-Dehaze: Enhanced CycleGAN for Single Image Dehazing, ECCVW, 2018. </br> 
+[[Li et al. 20]](https://ieeexplore-ieee-org.lib.ezproxy.ust.hk/stamp/stamp.jsp?tp=&arnumber=9170880&tag=1) Zero-Shot Image Dehazing, IEEE TIP, 2020.  </br> 
+
+--- 
+[[Wu et al. 21]](https://arxiv.org/pdf/2104.09367.pdf) Contrastive Learning for Compact Single Image Dehazing, CVPR, 2021. </br> 
+[[Shyam et al. 21]](https://arxiv.org/pdf/2101.10449.pdf) Towards Domain Invariant Single Image Dehazing, AAAI, 2021. </br> 
+[[Zheng et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Ultra-High-Definition_Image_Dehazing_via_Multi-Guided_Bilateral_Learning_CVPR_2021_paper.pdf) Ultra-High-Defifinition Image Dehazing via Multi-Guided Bilateral Learning, CVPR, 2021. </br> 
+[[Chen et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.pdf) PSD: Principled Synthetic-to-Real Dehazing Guided by Physical Priors, CVPR, 2021. </br> 
+[[Zhao et al. 21]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf) BidNet: Binocular Image Dehazing without Explicit Disparity Estimation, CVPR, 2021.   </br> 
+[[Kar et al. 21]](http://xxx.itp.ac.cn/pdf/2008.01701v1) Transmission Map and Atmospheric Light Guided Iterative Updater Network for Single Image Dehazing, CVPR, 2021.
+[[Li et al. 20]](https://ieeexplore.ieee.org/abstract/document/8902220) Semi-Supervised Image Dehazing, IEEE TIP, 2020.  </br> 
+[[Yi et al. 21]](https://arxiv.org/pdf/2102.03501.pdf)  Two-Step Image Dehazing with Intra-domain and Inter-domain Adaptation, Arxiv, 2021.
 
 ####  Image/Video Super-Resolution 
 [[Chan et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_BasicVSR_The_Search_for_Essential_Components_in_Video_Super-Resolution_and_CVPR_2021_paper.pdf) BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond, ICCV, 2021. </br> 
 [[Yi et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yi_Omniscient_Video_Super-Resolution_ICCV_2021_paper.pdf)  Omniscient Video Super-Resolution, ICCV, 2021. </br> 
-[[Yang et al. 17]](url) Deep Joint Rain Detection and Removal from a Single Image, CVPR, 2017.
-[[Hu et al. 17]](url) Depth-Attentional Features for Single-Image Rain Removal, CVPR, 2019.
+
 
