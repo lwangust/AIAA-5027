@@ -219,7 +219,7 @@ Current Challenges and Future Perspectives, IJCV, 2021.   </br>
 [[Zhang et al. 18]](https://arxiv.org/pdf/1802.07412.pdf) Density-aware Single Image De-raining using a Multi-stream Dense Network, CVPR, 2018.  </br> 
 [[Hu et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf)   Depth-attentional features for single-image rain removal, CVPR, 2019.  </br> 
 [[Qian et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)  Attentive Generative Adversarial Network for Raindrop Removal from A Single Image, CVPR, 2018.  </br> 
-[[Zhang et al. 19]](https://arxiv.org/pdf/1701.05957.pdf)  Image de-raining using a conditional generative adversarial network, IEEE n IEEE transactions on circuits and systems for video technology, 2019.  </br> 
+[[Zhang et al. 19]](https://arxiv.org/pdf/1701.05957.pdf)  Image de-raining using a conditional generative adversarial network, IEEE transactions on circuits and systems for video technology, 2019.  </br> 
 [[Wei et al. 19]](https://arxiv.org/pdf/1807.11078.pdf) Semi-supervised Transfer Learning for Image Rain Removal, CVPR, 2019.  </br> 
 
 --- 
