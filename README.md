@@ -243,7 +243,7 @@ Current Challenges and Future Perspectives, IJCV, 2021.   </br>
 [[Cai et al. 16]](https://arxiv.org/pdf/1601.07661.pdf) DehazeNet: An End-to-End System for Single Image Haze Removal, IEEE, TIP, 2016. </br> 
 [[Ren et al. 20]](https://link.springer.com/content/pdf/10.1007/s11263-019-01235-8.pdf) Single Image Dehazing via Multi-scale Convolutional Neural Networks
 with Holistic Edges, IJCV, 2020. (Extension of the conference version at 2016) </br> 
-[[Li et al. 17]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_AOD-Net_All-In-One_Dehazing_ICCV_2017_paper.pdf) AOD-Net: All-in-One Dehazing Network. </br> 
+[[Li et al. 17]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_AOD-Net_All-In-One_Dehazing_ICCV_2017_paper.pdf) AOD-Net: All-in-One Dehazing Network, ICCV, 2017. </br> 
 [[Qin et al. 20]](https://arxiv.org/pdf/1911.07559.pdf) FFA-Net: Feature Fusion Attention Network for Single Image Dehazing, AAAI,2020. </br> 
 [[Zhang et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Densely_Connected_Pyramid_CVPR_2018_paper.pdf) Densely Connected Pyramid Dehazing Network, CVPR, 2018. </br> 
 [[Ren et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_Gated_Fusion_Network_CVPR_2018_paper.pdf)  Gated Fusion Network for Single Image Dehazing
