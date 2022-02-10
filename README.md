@@ -269,7 +269,17 @@ with Holistic Edges, IJCV, 2020. (Extension of the conference version at 2016) <
 [[Lim et al. 17]](https://arxiv.org/pdf/1707.02921.pdf) Enhanced Deep Residual Networks for Single Image Super-Resolution, CVPRW, 2017.  </br> 
 [[Kim et al. 17]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.pdf) Accurate Image Super-Resolution Using Very Deep Convolutional Networks, CVPR, 2017.  </br> 
 [[Tai et al. 17]](https://arxiv.org/pdf/1708.02209.pdf) MemNet: A Persistent Memory Network for Image Restoration, CVPR, 2017.  </br> 
-[[Li et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Juncheng_Li_Multi-scale_Residual_Network_ECCV_2018_paper.pdf)  Multi-scale Residual Network for Image Super-Resolution, ECCV, 2018.  </br> 
+[[Li et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Juncheng_Li_Multi-scale_Residual_Network_ECCV_2018_paper.pdf)  Multi-scale Residual Network for Image Super-Resolution, ECCV, 2018. </br> 
+[[Zhang et al. 18]](https://arxiv.org/pdf/1807.02758.pdf) Image Super-Resolution Using Very Deep Residual Channel Attention Networks, ECCV, 2018. </br> 
+[[Zhang et al. 19]](https://arxiv.org/pdf/1903.10082.pdf) Residual Non-local Attention Networks for Image Restoration, ICLR, 2019. </br> 
+[[Dai et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.pdf) Second-order Attention Network for Single Image Super-Resolution, CVPR, 2019. </br> 
+[[Han et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3225.pdf)  Image Super-Resolution via Dual-State Recurrent Networks, CVPR, 2018.
+[[Li et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Juncheng_Li_Multi-scale_Residual_Network_ECCV_2018_paper.pdf) Multi-scale Residual Network for Image Super-Resolution, ECCV, 2018. </br> 
+[[Ren et al. 18]](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Ren_Image_Super_Resolution_CVPR_2017_paper.pdf) Image Super Resolution Based on Fusing Multiple Convolution Neural Networks, CVPRW, 2017. </br> 
+[[Ahn et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Namhyuk_Ahn_Fast_Accurate_and_ECCV_2018_paper.pdf) Fast, accurate, and lightweight
+super-resolution with cascading residual network, ECCV, 2018. </br> 
+[[Zhang et al. 19]](https://ieeexplore-ieee-org.lib.ezproxy.ust.hk/stamp/stamp.jsp?tp=&arnumber=8502129&tag=1)  DCSR: Dilated Convolutions for Single Image Super-Resolution, IEEE TIP, 2019. </br> 
+
 
 [[Chan et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_BasicVSR_The_Search_for_Essential_Components_in_Video_Super-Resolution_and_CVPR_2021_paper.pdf) BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond, ICCV, 2021. </br> 
 [[Yi et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yi_Omniscient_Video_Super-Resolution_ICCV_2021_paper.pdf)  Omniscient Video Super-Resolution, ICCV, 2021. </br> 
