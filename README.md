@@ -273,15 +273,37 @@ with Holistic Edges, IJCV, 2020. (Extension of the conference version at 2016) <
 [[Zhang et al. 18]](https://arxiv.org/pdf/1807.02758.pdf) Image Super-Resolution Using Very Deep Residual Channel Attention Networks, ECCV, 2018. </br> 
 [[Zhang et al. 19]](https://arxiv.org/pdf/1903.10082.pdf) Residual Non-local Attention Networks for Image Restoration, ICLR, 2019. </br> 
 [[Dai et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.pdf) Second-order Attention Network for Single Image Super-Resolution, CVPR, 2019. </br> 
-[[Han et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3225.pdf)  Image Super-Resolution via Dual-State Recurrent Networks, CVPR, 2018.
+[[Han et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3225.pdf)  Image Super-Resolution via Dual-State Recurrent Networks, CVPR, 2018. </br> 
 [[Li et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Juncheng_Li_Multi-scale_Residual_Network_ECCV_2018_paper.pdf) Multi-scale Residual Network for Image Super-Resolution, ECCV, 2018. </br> 
 [[Ren et al. 18]](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Ren_Image_Super_Resolution_CVPR_2017_paper.pdf) Image Super Resolution Based on Fusing Multiple Convolution Neural Networks, CVPRW, 2017. </br> 
 [[Ahn et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Namhyuk_Ahn_Fast_Accurate_and_ECCV_2018_paper.pdf) Fast, accurate, and lightweight
 super-resolution with cascading residual network, ECCV, 2018. </br> 
 [[Zhang et al. 19]](https://ieeexplore-ieee-org.lib.ezproxy.ust.hk/stamp/stamp.jsp?tp=&arnumber=8502129&tag=1)  DCSR: Dilated Convolutions for Single Image Super-Resolution, IEEE TIP, 2019. </br> 
+[[Zhantg et al. 18]](https://arxiv.org/pdf/1802.08797.pdf) Residual Dense Network for Image Super-Resolution, CVPR, 2018. </br> 
+[[Hu et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Meta-SR_A_Magnification-Arbitrary_Network_for_Super-Resolution_CVPR_2019_paper.pdf) Meta-SR: A Magnification-Arbitrary Network for Super-Resolution, CVPR, 2021. </br> 
+[[Chen et al. 21]](https://arxiv.org/pdf/2012.09161.pdf)  Learning Continuous Image Representation with Local Implicit Image Function, CVPR, 2021. </br> 
+[[Lee et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690460.pdf) Learning with Privileged Information for Efficient Image Super-Resolution, ECCV, 2020. </br> 
+[[Hu et al. 21]](https://www.ijcai.org/proceedings/2021/0155.pdf) Towards Compact Single Image Super-Resolution via Contrastive Self-distillation, IJCAI, 2021.  </br> 
+[[Cai et al. 19]](https://csjcai.github.io/papers/RealSR.pdf) Toward Real-World Single Image Super-Resolution: A New Benchmark and A New Model, ICCV, 2019. </br> 
+[[Wei et al. 20]](https://arxiv.org/pdf/2008.01928.pdf) Component Divide-and-Conquer for Real-World Image Super-Resolution, ECCV, 2021. </br> 
+[[Wang et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Unsupervised_Real-World_Super-Resolution_A_Domain_Adaptation_Perspective_ICCV_2021_paper.pdf) Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective, ICCV, 2021. </br> 
+[[Maeda et a. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Maeda_Unpaired_Image_Super-Resolution_Using_Pseudo-Supervision_CVPR_2020_paper.pdf) Unpaired Image Super-Resolution using Pseudo-Supervision, CVPR, 2020. </br> 
+[[Shocher et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shocher_Zero-Shot_Super-Resolution_Using_CVPR_2018_paper.pdf) “Zero-Shot” Super-Resolution using Deep Internal Learning, CVPR, 2018. </br> 
 
-
+----
+[[Wei et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wei_Unsupervised_Real-World_Image_Super_Resolution_via_Domain-Distance_Aware_Training_CVPR_2021_paper.pdf) Unsupervised Real-World Super-Resolution: A Domain Adaptation Perspective, ICCV, 2021. </br> 
+[[Zhang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Data-Free_Knowledge_Distillation_for_Image_Super-Resolution_CVPR_2021_paper.pdf) Unsupervised Real-world Image Super Resolution via Domain-distance Aware Training, CVPR, 2021.   </br> 
+[[Sefi et al. 20]](https://arxiv.org/pdf/1909.06581.pdf) Blind Super-Resolution Kernel Estimation using an Internal-GAN, NIPS, 2020.  </br> 
+[[Cheng et a. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620256.pdf)  Zero-Shot Image Super-Resolution with Depth Guided Internal Degradation Learning, ECCV, 2020.  </br> 
+[[Sun et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Learning_Scene_Structure_Guidance_via_Cross-Task_Knowledge_Transfer_for_Single_CVPR_2021_paper.pdf) Learning Scene Structure Guidance via Cross-Task Knowledge Transfer for Single Depth Super-Resolution, CVPR, 2021.  </br> 
+[[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Unsupervised_Degradation_Representation_Learning_for_Blind_Super-Resolution_CVPR_2021_paper.pdf) Unsupervised Degradation Representation Learning for Blind Super-Resolution, CVPR, 2021.  </br> 
+[[Son et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Son_SRWarp_Generalized_Image_Super-Resolution_under_Arbitrary_Transformation_CVPR_2021_paper.pdf) SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation, CVPR, 2021.  </br> 
+[[Jo et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Jo_Tackling_the_Ill-Posedness_of_Super-Resolution_Through_Adaptive_Target_Generation_CVPR_2021_paper.pdf) Tackling the Ill-Posedness of Super-Resolution through Adaptive Target Generation, CVPR, 2021.  </br> 
+[[Mei et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Mei_Image_Super-Resolution_With_Non-Local_Sparse_Attention_CVPR_2021_paper.pdf) Image Super-Resolution with Non-Local Sparse Attention, CVPR, 2021.  </br> 
+[[Wang et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Learning_a_Single_Network_for_Scale-Arbitrary_Super-Resolution_ICCV_2021_paper.pdf) Learning a Single Network for Scale-Arbitrary Super-Resolution, ICCV, 2021.  </br> 
+[[Wang et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Dual-Camera_Super-Resolution_With_Aligned_Attention_Modules_ICCV_2021_paper.pdf) Dual-Camera Super-Resolution with Aligned Attention Modules, CVPR, 2021. </br> 
 [[Chan et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chan_BasicVSR_The_Search_for_Essential_Components_in_Video_Super-Resolution_and_CVPR_2021_paper.pdf) BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond, ICCV, 2021. </br> 
 [[Yi et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yi_Omniscient_Video_Super-Resolution_ICCV_2021_paper.pdf)  Omniscient Video Super-Resolution, ICCV, 2021. </br> 
-
-
+[[Tian et al. 20]](https://arxiv.org/pdf/1812.02898.pdf) TDAN: Temporally Deformable Alignment Network for Video Super-Resolution, CVPR, 2020. </br> 
+[[Wang et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Wang_EDVR_Video_Restoration_With_Enhanced_Deformable_Convolutional_Networks_CVPRW_2019_paper.pdf)  EDVR: Video Restoration With Enhanced Deformable Convolutional Networks, CVPRW, 2019. </br> 
+ 
