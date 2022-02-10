@@ -267,6 +267,7 @@ with Holistic Edges, IJCV, 2020. (Extension of the conference version at 2016) <
 ####  Image/Video Super-Resolution 
 [[Dong et al. 16]](https://arxiv.org/pdf/1501.00092.pdf) mage Super-Resolution Using Deep Convolutional Networks, ECCV,2016.(First deep learning-based method)  </br>
 [[Lim et al. 17]](https://arxiv.org/pdf/1707.02921.pdf) Enhanced Deep Residual Networks for Single Image Super-Resolution, CVPRW, 2017.  </br> 
+[[Wang et al. 19]](https://arxiv.org/pdf/1902.06068.pdf)  Deep Learning for Image Super-resolution: A Survey, IEEE TPAMI, 2021. </br> 
 [[Kim et al. 17]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.pdf) Accurate Image Super-Resolution Using Very Deep Convolutional Networks, CVPR, 2017.  </br> 
 [[Tai et al. 17]](https://arxiv.org/pdf/1708.02209.pdf) MemNet: A Persistent Memory Network for Image Restoration, CVPR, 2017.  </br> 
 [[Li et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Juncheng_Li_Multi-scale_Residual_Network_ECCV_2018_paper.pdf)  Multi-scale Residual Network for Image Super-Resolution, ECCV, 2018. </br> 
