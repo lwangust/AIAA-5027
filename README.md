@@ -308,3 +308,26 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Tian et al. 20]](https://arxiv.org/pdf/1812.02898.pdf) TDAN: Temporally Deformable Alignment Network for Video Super-Resolution, CVPR, 2020. </br> 
 [[Wang et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Wang_EDVR_Video_Restoration_With_Enhanced_Deformable_Convolutional_Networks_CVPRW_2019_paper.pdf)  EDVR: Video Restoration With Enhanced Deformable Convolutional Networks, CVPRW, 2019. </br> 
  
+#### Deep HDR imaging 
+
+[[Wang et al. 21]](https://arxiv.org/pdf/2110.10394.pdf)  Deep Learning for HDR Imaging:State-of-the-Art and Future Trends, IEEE TPAMI, 2021. </br> 
+[[Kalantrai et al. 17]](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/PaperData/SIGGRAPH17_HDR.pdf) Deep High Dynamic Range Imaging of Dynamic Scenes, Siggraph, 2017. </br> 
+[[Prabhakar et al. 19]](https://ieeexplore.ieee.org/document/8747329) A Fast, Scalable, and Reliable Deghosting Method for Extreme Exposure Fusion, ICCP, 2019. </br> 
+[[Wu et al. 18]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Shangzhe_Wu_Deep_High_Dynamic_ECCV_2018_paper.pdf) Deep High Dynamic Range Imaging with Large Foreground Motions, ECCV, 2018. </br> 
+[[Yan et al. 21]](https://www.sciencedirect.com/science/article/abs/pii/S092523122031849X) Towards accurate HDR imaging with learning generator constraints, Neurocomputing, 2020. </br> 
+[[Yan et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yan_Attention-Guided_Network_for_Ghost-Free_High_Dynamic_Range_Imaging_CVPR_2019_paper.pdf)  Attention-guided Network for Ghost-free High Dynamic Range Imaging, CVPR, 2019. </br> 
+[[Rosh et al. 19]](https://ieeexplore-ieee-org.lib.ezproxy.ust.hk/stamp/stamp.jsp?tp=&arnumber=8803582) Deep Multi-Stage Learning for HDR With Large Object Motions, ICCP, 2019. </br> 
+[[Xu et al. 20]](https://ieeexplore-ieee-org.lib.ezproxy.ust.hk/stamp/stamp.jsp?tp=&arnumber=9112609) MEF-GAN: Multi-Exposure Image Fusion via Generative Adversarial Networks, TIP, 2020. </br> 
+[[Eilertsen et al. 17]](https://arxiv.org/pdf/1710.07480.pdf)  HDR image reconstruction from a single exposure using deep CNNs, Siggraph, 2017. </br> 
+[[Santas et al. 20]](https://arxiv.org/pdf/2005.07335.pdf) Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss, Siggraph, 2020. </br> 
+[[Endo et al. 17]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/DrTMO/paper/DrTMO_SIGGRAPHAsia_light.pdf) Deep Reverse Tone Mapping, Siggraph, 2017. </br> 
+[[Liu et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Single-Image_HDR_Reconstruction_by_Learning_to_Reverse_the_Camera_Pipeline_CVPR_2020_paper.pdf) Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline, CVPR, 2020. </br> 
+
+---
+[[Metzler]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Metzler_Deep_Optics_for_Single-Shot_High-Dynamic-Range_Imaging_CVPR_2020_paper.pdf) Deep Optics for Single-shot High-dynamic-range Imaging, CVPR, 2020. </br> 
+[[Kim et al. 18]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-20893-6_24.pdf) A Multi-purpose Convolutional Neural Network for Simultaneous Super-Resolution and High Dynamic Range Image Reconstruction, ACCV, 2018. </br> 
+[[Kim et al. 19]](https://arxiv.org/ftp/arxiv/papers/1904/1904.11176.pdf) Deep sr-itm: Joint learning of superresolution and inverse tone-mapping for 4k uhd hdr applications, ICCV,2019. </br> 
+[[Kim et al. 20]](https://arxiv.org/pdf/1909.04391.pdf)  JSI-GAN: GAN-Based Joint Super-Resolution and Inverse Tone-Mapping with Pixel-Wise Task-Specific Filters for UHD HDR Video, AAAI, 2020. </br> 
+[[Kim et al. 20]](https://arxiv.org/pdf/2006.15833.pdf) End-to-End Differentiable Learning to HDR Image Synthesis for Multi-exposure Images, AAAI, 2020. </br> 
+[[Chen et al. 21]](https://arxiv.org/pdf/2103.14943.pdf)  HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset, ICCV, 2021. </br> 
+[[Jiang et al. 21]](https://arxiv.org/pdf/2103.10982.pdf) HDR Video Reconstruction with Tri-Exposure Quad-Bayer Sensors, Arxiv, 2021. </br> 
