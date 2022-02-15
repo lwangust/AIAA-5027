@@ -339,3 +339,38 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Ge et al. 21]](https://arxiv.org/pdf/2107.08430.pdf)  YOLOX: Exceeding YOLO Series in 2021, Arxiv, 2021. </br> 
 [[Pramanik et al. 22]](https://ieeexplore.ieee.org/document/9313052) Granulated RCNN and Multi-Class Deep SORT for Multi-Object Detection and Tracking, IEEE TETCI, 2022. </br> 
 [[Wang et al. 21]](https://arxiv.org/pdf/2105.04206.pdf)  You Only Learn One Representation: Unified Network for Multiple Tasks, Arxiv, 2021. </br> 
+[[]](url)
+
+---
+#### Face detection 
+[[Luo et al. 16]](https://proceedings.neurips.cc/paper/2016/file/c8067ad1937f728f51288b3eb986afaa-Paper.pdf) Understanding the Effective Receptive Field in Deep Convolutional Neural Networks, 2016. </br> 
+[[Tang et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xu_Tang_PyramidBox_A_Context-assisted_ECCV_2018_paper.pdf) PyramidBox: A Context-assisted Single Shot Face Detector, ECCV, 2018. </br> 
+[[Liu et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_High-Level_Semantic_Feature_Detection_A_New_Perspective_for_Pedestrian_Detection_CVPR_2019_paper.pdf) High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection, CVPR, 2019. 
+[[Li et al. 20]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_DSFD_Dual_Shot_Face_Detector_CVPR_2019_paper.pdf) Dsfd: Dual shot face detector， CVPR, 2019. </br> 
+[[Wang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Hierarchical_Pyramid_Diverse_Attention_Networks_for_Face_Recognition_CVPR_2020_paper.pdf) Hierarchical Pyramid Diverse Attention Networks for Face Recognition, CVPR, 2020. </br> 
+[[Huang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_When_Age-Invariant_Face_Recognition_Meets_Face_Age_Synthesis_A_Multi-Task_CVPR_2021_paper.pdf) When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework, CVPR, 2021. </br> 
+[[Tong et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tong_FaceSec_A_Fine-Grained_Robustness_Evaluation_Framework_for_Face_Recognition_Systems_CVPR_2021_paper.pdf) FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems, CVPR, 2021. </br> 
+[[Qiu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Qiu_SynFace_Face_Recognition_With_Synthetic_Data_ICCV_2021_paper.pdf) SynFace: Face Recognition with Synthetic Data, ICCV, 2021. </br> 
+[[Song et al. 21]](https://openaccess.thecvf.com/content/ICCV2021W/MFR/papers/Huang_Masked_Face_Recognition_Datasets_and_Validation_ICCVW_2021_paper.pdf)  Occlusion Robust Face Recognition Based on Mask Learning With Pairwise Differential Siamese Network, ICCV, 2021. </br> 
+[[Fabbri et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf) MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?, ICCV, 2021.
+
+#### Pedestrain detection
+[[Wang et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Repulsion_Loss_Detecting_CVPR_2018_paper.pdf)  Repulsion Loss: Detecting Pedestrians in a Crowd, CVPR, 2018.  </br> 
+[[Zhang et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Shifeng_Zhang_Occlusion-aware_R-CNN_Detecting_ECCV_2018_paper.pdf)  Occlusion-aware R-CNN: Detecting Pedestrians in a Crowd, ECCV, 2018.  </br> 
+[[Liu et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Adaptive_NMS_Refining_Pedestrian_Detection_in_a_Crowd_CVPR_2019_paper.pdf) Adaptive NMS: Refining Pedestrian Detection in a Crowd, CVPR, 2019.  </br> 
+[[Zhou et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630766.pdf) Improving Multispectral Pedestrian Detection by Addressing Modality Imbalance Problems, ECCV, 2020. </br> 
+[[Wu et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Temporal-Context_Enhanced_Detection_of_Heavily_Occluded_Pedestrians_CVPR_2020_paper.pdf) Temporal-Context Enhanced Detection of Heavily Occluded Pedestrians, CVPR, 2020.   </br> 
+[[Wu  et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Where_What_Whether_Multi-Modal_Learning_Meets_Pedestrian_Detection_CVPR_2020_paper.pdf) Where, What, Whether: Multi-modal Learning Meets Pedestrian Detection, CVPR, 2020.  </br> 
+[[Huang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_NMS_by_Representative_Region_Towards_Crowded_Pedestrian_Detection_by_Proposal_CVPR_2020_paper.pdf) NMS by Representative Region: Towards Crowded Pedestrian Detection by Proposal Pairing, CVPR, 2020.  </br> 
+[[Wang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Learning_Human-Object_Interaction_Detection_Using_Interaction_Points_CVPR_2020_paper.pdf) Learning Human-Object Interaction Detection using Interaction Points, CVPR, 2020.  </br> 
+[[Sundararaman et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sundararaman_Tracking_Pedestrian_Heads_in_Dense_Crowd_CVPR_2021_paper.pdf) Tracking Pedestrian Heads in Dense Crowd, CVPR, 2020.  </br> 
+[[Yan et al. 20]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Anchor-Free_Person_Search_CVPR_2021_paper.pdf)  Anchor-Free Person Search, CVPR,2020.  </br> 
+
+
+
+### Computer vision with novel camera sensors (II)
+[[Ghose et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Ghose_Pedestrian_Detection_in_Thermal_Images_Using_Saliency_Maps_CVPRW_2019_paper.pdf) Pedestrian Detection in Thermal Images using Saliency Maps, CVPR, 2019.   </br> 
+[[Kieu et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf) Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV, 2020. </br> 
+
+### Scene Understanding in adverse vision conditions
+[[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_HLA-Face_Joint_High-Low_Adaptation_for_Low_Light_Face_Detection_CVPR_2021_paper.pdf)  HLA-Face: Joint High-Low Adaptation for Low Light Face Detection, CVPR, 2021.
