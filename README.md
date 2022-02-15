@@ -332,3 +332,10 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Kim et al. 20]](https://arxiv.org/pdf/2006.15833.pdf) End-to-End Differentiable Learning to HDR Image Synthesis for Multi-exposure Images, AAAI, 2020. </br> 
 [[Chen et al. 21]](https://arxiv.org/pdf/2103.14943.pdf)  HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset, ICCV, 2021. </br> 
 [[Jiang et al. 21]](https://arxiv.org/pdf/2103.10982.pdf) HDR Video Reconstruction with Tri-Exposure Quad-Bayer Sensors, Arxiv, 2021. </br> 
+
+
+### Object detection
+[[Fang et al. 21]](https://arxiv.org/pdf/2106.00666.pdf) You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection, NIPS, 2021. </br> 
+[[Ge et al. 21]](https://arxiv.org/pdf/2107.08430.pdf)  YOLOX: Exceeding YOLO Series in 2021, Arxiv, 2021. </br> 
+[[Pramanik et al. 22]](https://ieeexplore.ieee.org/document/9313052) Granulated RCNN and Multi-Class Deep SORT for Multi-Object Detection and Tracking, IEEE TETCI, 2022. </br> 
+[[Wang et al. 21]](https://arxiv.org/pdf/2105.04206.pdf)  You Only Learn One Representation: Unified Network for Multiple Tasks, Arxiv, 2021. </br> 
