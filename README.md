@@ -385,7 +385,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Wang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Learning_Human-Object_Interaction_Detection_Using_Interaction_Points_CVPR_2020_paper.pdf) Learning Human-Object Interaction Detection using Interaction Points, CVPR, 2020.  </br> 
 [[Sundararaman et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sundararaman_Tracking_Pedestrian_Heads_in_Dense_Crowd_CVPR_2021_paper.pdf) Tracking Pedestrian Heads in Dense Crowd, CVPR, 2020.  </br> 
 [[Yan et al. 20]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Anchor-Free_Person_Search_CVPR_2021_paper.pdf)  Anchor-Free Person Search, CVPR,2020.  </br> 
-
+[[Gu et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jiayuan_Gu_Learning_Region_Features_ECCV_2018_paper.pdf) Learning Region Features for Object Detection, ECCV, 2018.
 
 
 ### Computer vision with novel camera sensors (II)
