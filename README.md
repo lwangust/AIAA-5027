@@ -366,7 +366,8 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Guo et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Distilling_Object_Detectors_via_Decoupled_Features_CVPR_2021_paper.pdf) Distilling Object Detectors via Decoupled Features, CVPR, 2021. </br> 
 [[Chen et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf) Domain Adaptive Faster R-CNN for Object Detection in the Wild, CVPR, 2018. </br> 
 [[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Data-Uncertainty_Guided_Multi-Phase_Learning_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf) Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection, CVPR,2021.  </br> 
-
+[[Zhou et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Instant-Teaching_An_End-to-End_Semi-Supervised_Object_Detection_Framework_CVPR_2021_paper.pdf) Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework, CVPR, 2021.  </br> 
+[[Yang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Interactive_Self-Training_With_Mean_Teachers_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf) Interactive Self-Training with Mean Teachers for Semi-supervised Object Detection, CVPR, 2021. </br> 
 
 ---
 #### Face detection 
