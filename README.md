@@ -355,11 +355,18 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 
 #### Generic detection
 [[Redmon et al. 18]](https://arxiv.org/pdf/1804.02767.pdf) YOLOv3: An Incremental Improvement, Arxiv, 2018. </br> 
+[[Chen et al. 19]](https://proceedings.neurips.cc/paper/2017/file/e1e32e235eee1f970470a3a6658dfdd5-Paper.pdf)  Learning Efficient Object Detection Models with Knowledge Distillation, NIPS, 2019. </br> 
+[[Kang et al. 21]](https://papers.nips.cc/paper/2021/file/892c91e0a653ba19df81a90f89d99bcd-Paper.pdf)  Instance-Conditional Knowledge Distillation for Object Detection, NIPS, 2021. </br> 
 [[Fang et al. 21]](https://arxiv.org/pdf/2106.00666.pdf) You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection, NIPS, 2021. </br> 
 [[Ge et al. 21]](https://arxiv.org/pdf/2107.08430.pdf)  YOLOX: Exceeding YOLO Series in 2021, Arxiv, 2021. </br> 
 [[Pramanik et al. 22]](https://ieeexplore.ieee.org/document/9313052) Granulated RCNN and Multi-Class Deep SORT for Multi-Object Detection and Tracking, IEEE TETCI, 2022. </br> 
 [[Wang et al. 21]](https://arxiv.org/pdf/2105.04206.pdf)  You Only Learn One Representation: Unified Network for Multiple Tasks, Arxiv, 2021. </br> 
 [[Wang et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Towards_Universal_Object_Detection_by_Domain_Attention_CVPR_2019_paper.pdf) Towards Universal Object Detection by Domain Attention, CVPR, 2019. </br> 
+[[Huang et al. 19]](https://arxiv.org/pdf/1903.00241.pdf) Mask Scoring R-CNN, CVPR, 2019. </br> 
+[[Guo et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Distilling_Object_Detectors_via_Decoupled_Features_CVPR_2021_paper.pdf) Distilling Object Detectors via Decoupled Features, CVPR, 2021. </br> 
+[[Chen et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf) Domain Adaptive Faster R-CNN for Object Detection in the Wild, CVPR, 2018. </br> 
+[[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Data-Uncertainty_Guided_Multi-Phase_Learning_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf) Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection, CVPR,2021.  </br> 
+
 
 ---
 #### Face detection 
