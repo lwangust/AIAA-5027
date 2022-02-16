@@ -351,7 +351,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Long et al. 16]](https://arxiv.org/pdf/1605.06409.pdf) R-FCN: Object Detection via Region-based Fully Convolutional Networks, NIPS, 2016. </br> 
 [[Lin et al. 17]](https://arxiv.org/pdf/1612.03144.pdf) Feature Pyramid Networks for Object Detection, CVPR, 2017.  </br> 
 [[He et al. 18]](url) Mask R-CNN, ICCV, 2018.  </br> 
-
+[[Chen et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Accurate_One-Stage_Object_Detection_With_AP-Loss_CVPR_2019_paper.pdf)  Towards Accurate One-Stage Object Detection with AP-Loss, CVPR, 2019.
 
 #### Generic detection
 [[Redmon et al. 18]](https://arxiv.org/pdf/1804.02767.pdf) YOLOv3: An Incremental Improvement, Arxiv, 2018. </br> 
