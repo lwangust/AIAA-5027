@@ -349,7 +349,9 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Law et al. 19]](https://arxiv.org/pdf/1808.01244.pdf)  CornerNet: Detecting Objects as Paired Keypoints,IJCV, 2019. </br> 
 [[He et al. 15]](https://arxiv.org/pdf/1406.4729.pdf)  Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, IEEE TPAMI, 2015.  </br> 
 [[Long et al. 16]](https://arxiv.org/pdf/1605.06409.pdf) R-FCN: Object Detection via Region-based Fully Convolutional Networks, NIPS, 2016. </br> 
-[[Lin et al. 17]](https://arxiv.org/pdf/1612.03144.pdf) Feature Pyramid Networks for Object Detection, CVPR, 2017.
+[[Lin et al. 17]](https://arxiv.org/pdf/1612.03144.pdf) Feature Pyramid Networks for Object Detection, CVPR, 2017.  </br> 
+[[He et al. 18]](url) Mask R-CNN, ICCV, 2018.  </br> 
+
 
 #### Generic detection
 [[Redmon et al. 18]](https://arxiv.org/pdf/1804.02767.pdf) YOLOv3: An Incremental Improvement, Arxiv, 2018. </br> 
