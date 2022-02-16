@@ -335,11 +335,29 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 
 
 ### Object detection
+[[Wu et al. 20]](https://arxiv.org/pdf/1908.03673.pdf) Recent advances in deep learning for object detection, Neurocomputing, 2020. </br> 
+[[Girshick et al. 15]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) Fast R-CNN, ICCV, 2015.  </br> 
+[[Ghodrati et al. 15]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ghodrati_DeepProposal_Hunting_Objects_ICCV_2015_paper.pdf) DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers, ICCV, 2015. </br> 
+[[Ren et al. 15]](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)  Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, NIPS, 2016. </br> 
+[[Kong et al. 16]](https://zpascal.net/cvpr2016/Kong_HyperNet_Towards_Accurate_CVPR_2016_paper.pdf)  HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection, CVPR, 2016.  </br> 
+[[He et al. 14]](https://arxiv.org/pdf/1406.4729.pdf) Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, ECCV, 2014. </br> 
+[[Cai et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.pdf)  Cascade R-CNN: Delving into High Quality Object Detection, CVPR, 2018. </br> 
+[[Redmon et al. 16]](https://arxiv.org/pdf/1506.02640.pdf) You Only Look Once: Unified, Real-Time Object Detection, CVPR, 2016.  </br> 
+[[Liu et al. 16]](https://arxiv.org/pdf/1512.02325.pdf) SSD: Single Shot MultiBox Detector, ECCV, 2016. </br> 
+[[Lin et al. 18]](https://arxiv.org/pdf/1708.02002.pdf) Focal Loss for Dense Object Detection (RetinaNet), CVPR, 2018. </br> 
+[[Redmon et al. 16]](https://arxiv.org/pdf/1612.08242.pdf) YOLO9000: Better, Faster, Stronger, Arxiv, 2017. </br> 
+[[Law et al. 19]](https://arxiv.org/pdf/1808.01244.pdf)  CornerNet: Detecting Objects as Paired Keypoints,IJCV, 2019. </br> 
+[[He et al. 15]](https://arxiv.org/pdf/1406.4729.pdf)  Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, IEEE TPAMI, 2015.  </br> 
+[[Long et al. 16]](https://arxiv.org/pdf/1605.06409.pdf) R-FCN: Object Detection via Region-based Fully Convolutional Networks, NIPS, 2016. </br> 
+[[Lin et al. 17]](https://arxiv.org/pdf/1612.03144.pdf) Feature Pyramid Networks for Object Detection, CVPR, 2017.
+
+#### Generic detection
+[[Redmon et al. 18]](https://arxiv.org/pdf/1804.02767.pdf) YOLOv3: An Incremental Improvement, Arxiv, 2018. </br> 
 [[Fang et al. 21]](https://arxiv.org/pdf/2106.00666.pdf) You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection, NIPS, 2021. </br> 
 [[Ge et al. 21]](https://arxiv.org/pdf/2107.08430.pdf)  YOLOX: Exceeding YOLO Series in 2021, Arxiv, 2021. </br> 
 [[Pramanik et al. 22]](https://ieeexplore.ieee.org/document/9313052) Granulated RCNN and Multi-Class Deep SORT for Multi-Object Detection and Tracking, IEEE TETCI, 2022. </br> 
 [[Wang et al. 21]](https://arxiv.org/pdf/2105.04206.pdf)  You Only Learn One Representation: Unified Network for Multiple Tasks, Arxiv, 2021. </br> 
-[[]](url)
+[[Wang et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Towards_Universal_Object_Detection_by_Domain_Attention_CVPR_2019_paper.pdf) Towards Universal Object Detection by Domain Attention, CVPR, 2019. </br> 
 
 ---
 #### Face detection 
