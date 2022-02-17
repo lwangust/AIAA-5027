@@ -67,6 +67,8 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 [[Zhu et al. 17]](https://arxiv.org/pdf/1703.10593.pdf) Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, ICCV 2017.</br>
 [[Liu et al. 17]](https://arxiv.org/pdf/1703.00848.pdf) UNIT: Unsupervised Image-to-Image Translation Networks, NeurIPS 2017. </br>
 [[Choi et al. 18]](https://arxiv.org/pdf/1711.09020.pdf)StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation, CVPR 2018.  </br>
+
+---
 [[Brock et al. 19]](https://arxiv.org/pdf/1809.11096.pdf) Large Scale GAN Training for High-Fidelity Natural Image Synthesis, ICLR 2019. </br>
 [[Karras et al. 19] ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) A Style-Based Generator Architecture for Generative Adversarial Networks, CVPR 2019. </br>
 [[Karras et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.pdf) Analyzing and Improving the Image Quality of StyleGAN, CVPR 2020. </br>
@@ -99,6 +101,8 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Zhang et al. 19]](https://arxiv.org/pdf/1905.08094.pdf)  Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation, ICCV, 2019.  </br> 
 [[Heo et al. 19]](https://arxiv.org/pdf/1904.01866.pdf) A Comprehensive Overhaul of Feature Distillation, ICCV, 2019.  </br>
 [[Tung et al.19]](https://arxiv.org/pdf/1907.09682.pdf) Similarity-Preserving Knowledge Distillation, ICCV, 2019.   </br>
+
+---
 [[Chen et al. 19]](https://www.wangyunhe.site/data/2019%20ICCV%20DAFL.pdf) DAFL:Data-Free Learning of Student Networks, ICCV, 2019. </br>
 [[Ahn et al. 19]](https://arxiv.org/pdf/1904.05835.pdf) Variational Information Distillation for Knowledge Transfer, CVPR, 2019.  </br>
 [[Tian et al. 20]](https://arxiv.org/pdf/1910.10699v2.pdf)  Contrastive Representation Distillation, ICLR, 2020.  </br>
