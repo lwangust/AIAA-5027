@@ -415,7 +415,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Chen et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_CrDoCo_Pixel-Level_Domain_Transfer_With_Cross-Domain_Consistency_CVPR_2019_paper.pdf) CrDoCo: Pixel-level Domain Transfer with Cross-Domain Consistency, CVPR, 2019. </br>
 [[Choi et al. 19]](https://arxiv.org/pdf/1909.00589.pdf) Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation, ICCV, 2019. </br>
 [[Xu et al. 19]](https://ojs.aaai.org//index.php/AAAI/article/view/4500) Self-Ensembling Attention Networks: Addressing Domain Shift for Semantic Segmentation, AAAI, 2019. </br>
-
+[[Csurka et al. 21]](https://arxiv.org/pdf/2112.03241.pdf) Unsupervised Domain Adaptation for Semantic Image Segmentation: a Comprehensive Survey, Arxiv, 2021. 
 ---
  
 [[Huang et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_CCNet_Criss-Cross_Attention_for_Semantic_Segmentation_ICCV_2019_paper.pdf) CCNet: Criss-Cross Attention for Semantic Segmentation, ICCV, 2019. </br>
