@@ -428,6 +428,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Xu et al. 19]](https://ojs.aaai.org//index.php/AAAI/article/view/4500) Self-Ensembling Attention Networks: Addressing Domain Shift for Semantic Segmentation, AAAI, 2019. </br>
 [[Csurka et al. 21]](https://arxiv.org/pdf/2112.03241.pdf) Unsupervised Domain Adaptation for Semantic Image Segmentation: a Comprehensive Survey, Arxiv, 2021.  </br>
 [[Araslanov et al. 21]](https://arxiv.org/pdf/2105.00097.pdf) Self-supervised Augmentation Consistency for Adapting Semantic Segmentation, CVPR, 2021. </br>
+[[Chan et al. 20]](https://arxiv.org/pdf/1912.11186.pdf) A Comprehensive Analysis of Weakly-Supervised Semantic Segmentation in Different Image Domains, IJCV, 2020.
 
 --- 
  
@@ -441,6 +442,11 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Chen et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_ROAD_Reality_Oriented_CVPR_2018_paper.pdf) ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes, CVPR, 2018. </br>
 [[Wang et al. 21]](https://arxiv.org/pdf/2009.08610.pdf) Consistency Regularization with High-dimensional Non-adversarial Source-guided Perturbation for Unsupervised Domain Adaptation in Segmentation, AAAI, 2021. </br>
 [[Kundu et al. 21]](https://arxiv.org/pdf/2108.11249.pdf) Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation, ICCV, 2021. </br>
+[[Wang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Self-Supervised_Equivariant_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2020_paper.pdf)
+Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation, CVPR, 2020. </br>
+[[Sun et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_ECS-Net_Improving_Weakly_Supervised_Semantic_Segmentation_by_Using_Connections_Between_ICCV_2021_paper.pdf) ECS-Net: Improving Weakly Supervised Semantic Segmentation by Using Connections Between Class Activation Maps, ICCV, 2021. </br>
+[[Chang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chang_Weakly-Supervised_Semantic_Segmentation_via_Sub-Category_Exploration_CVPR_2020_paper.pdf) Weakly-Supervised Semantic Segmentation via Sub-category Exploration, CVPR, 2020. </br>
+
 
 ### Computer vision with novel camera sensors (II)
 [[Ghose et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Ghose_Pedestrian_Detection_in_Thermal_Images_Using_Saliency_Maps_CVPRW_2019_paper.pdf) Pedestrian Detection in Thermal Images using Saliency Maps, CVPR, 2019.   </br> 
