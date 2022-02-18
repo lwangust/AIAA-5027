@@ -429,6 +429,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Csurka et al. 21]](https://arxiv.org/pdf/2112.03241.pdf) Unsupervised Domain Adaptation for Semantic Image Segmentation: a Comprehensive Survey, Arxiv, 2021.  </br>
 [[Araslanov et al. 21]](https://arxiv.org/pdf/2105.00097.pdf) Self-supervised Augmentation Consistency for Adapting Semantic Segmentation, CVPR, 2021. </br>
 [[Chan et al. 20]](https://arxiv.org/pdf/1912.11186.pdf) A Comprehensive Analysis of Weakly-Supervised Semantic Segmentation in Different Image Domains, IJCV, 2020.
+[[He et al. 21]](https://arxiv.org/pdf/2103.05423.pdf) Deep Learning based 3D Segmentation: A Survey, Arxiv, 2021.
 
 --- 
  
