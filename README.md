@@ -401,6 +401,16 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 
 ### Image Segmentation
 
+[[Long et al. 15]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) Fully Convolutional Networks for Semantic Segmentation, CVPR, 2015. </br>
+[[Noh et al. 15]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)  Learning Deconvolution Network for Semantic Segmentation, ICCV, 2015.  </br>
+[[Badrinarayanan et al. 16]](https://arxiv.org/pdf/1511.00561.pdf)  SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation, ICCV, 2016. </br>
+[[Sun et al. 19]](https://arxiv.org/pdf/1904.04514.pdf) High-Resolution Representations for Labeling Pixels and Regions, CVPR, 2019.  </br>
+[[Zhao et al. 17]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Pyramid_Scene_Parsing_CVPR_2017_paper.pdf) Pyramid Scene Parsing Network, CVPR, 2017. </br>
+[[Chen et al. 18]](https://arxiv.org/pdf/1706.05587.pdf) Rethinking Atrous Convolution for Semantic Image Segmentation (Deeplabv3), CVPR, 2018. </br>
+[[Visin et al. 16]](https://arxiv.org/pdf/1511.07053v3.pdf) ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation, CVPR, 2016.  </br>
+[[Visin et al. 15]](url) ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks, NIPS, 2015. </br>
+[[Chen et al. 16]](https://arxiv.org/pdf/1511.03339.pdf), Attention to Scale: Scale-aware Semantic Image Segmentation, CVPR, 2016.
+[[Ghiasi et al. 16]](https://arxiv.org/pdf/1605.02264.pdf) Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation, ECCV, 2016.
 [[Li et al. 18]](https://arxiv.org/pdf/1805.10180.pdf) Pyramid Attention Network for Semantic Segmentation, BMVC, 2018. </br>
 [[Fu et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.pdf)  Dual Attention Network for Scene Segmentation, CVPR, 2019. </br>
 [[Chen et al. 16]](https://arxiv.org/pdf/1511.03339.pdf)  Attention to Scale: Scale-aware Semantic Image Segmentation, ICCV, 2016. </br>
@@ -408,7 +418,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[He et al. 17]](https://arxiv.org/pdf/1703.06870.pdf) Mask R-CNN, ICCV, 2017. </br>
 [[Yuan et al. 18]](https://arxiv.org/pdf/1809.00916v1.pdf)  OCNet: Object Context Network for Scene Parsing, CVPR, 2019. </br>
 [[Wang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf) Dual Super-Resolution Learning for Semantic Segmentation, CVPR, 2020. </br>
-[[Liu et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Structured_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2019_paper.pdf)   Structured Knowledge Distillation for Semantic Segmentation, CVPR, 2019. </br>
+[[Liu et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Structured_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2019_paper.pdf) Structured Knowledge Distillation for Semantic Segmentation, CVPR, 2019. </br>
 [[Wang et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520341.pdf)  Intra-class Feature Variation Distillation for Semantic Segmentation, ECCV, 2020. </br>
 [[Xu et al. 18]](https://arxiv.org/pdf/2003.06849.pdf)  Deep Affinity Net: Instance Segmentation via Affinity,ECCV, 2018. </br>
 [[Quali et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ouali_Semi-Supervised_Semantic_Segmentation_With_Cross-Consistency_Training_CVPR_2020_paper.pdf) Semi-Supervised Semantic Segmentation with Cross-Consistency Training, CVPR, 2020. </br>
@@ -416,18 +426,21 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Chen et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_CrDoCo_Pixel-Level_Domain_Transfer_With_Cross-Domain_Consistency_CVPR_2019_paper.pdf) CrDoCo: Pixel-level Domain Transfer with Cross-Domain Consistency, CVPR, 2019. </br>
 [[Choi et al. 19]](https://arxiv.org/pdf/1909.00589.pdf) Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation, ICCV, 2019. </br>
 [[Xu et al. 19]](https://ojs.aaai.org//index.php/AAAI/article/view/4500) Self-Ensembling Attention Networks: Addressing Domain Shift for Semantic Segmentation, AAAI, 2019. </br>
-[[Csurka et al. 21]](https://arxiv.org/pdf/2112.03241.pdf) Unsupervised Domain Adaptation for Semantic Image Segmentation: a Comprehensive Survey, Arxiv, 2021. 
+[[Csurka et al. 21]](https://arxiv.org/pdf/2112.03241.pdf) Unsupervised Domain Adaptation for Semantic Image Segmentation: a Comprehensive Survey, Arxiv, 2021.  </br>
+[[Araslanov et al. 21]](https://arxiv.org/pdf/2105.00097.pdf) Self-supervised Augmentation Consistency for Adapting Semantic Segmentation, CVPR, 2021. </br>
 
----
+--- 
  
 [[Huang et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_CCNet_Criss-Cross_Attention_for_Semantic_Segmentation_ICCV_2019_paper.pdf) CCNet: Criss-Cross Attention for Semantic Segmentation, ICCV, 2019. </br>
-[[Zhu et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Asymmetric_Non-Local_Neural_Networks_for_Semantic_Segmentation_ICCV_2019_paper.pdf)Asymmetric Non-local Neural Networks for Semantic Segmentation, ICCV, 2019. </br>
+[[Zhu et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Asymmetric_Non-Local_Neural_Networks_for_Semantic_Segmentation_ICCV_2019_paper.pdf) Asymmetric Non-local Neural Networks for Semantic Segmentation, ICCV, 2019. </br>
 [[Du et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Du_SSF-DAN_Separated_Semantic_Feature_Based_Domain_Adaptation_Network_for_Semantic_ICCV_2019_paper.pdf) SSF-DAN: Separated Semantic Feature based Domain Adaptation Network for Semantic Segmentation, ICCV, 2019. </br>
 [[Ibrahim et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ibrahim_Semi-Supervised_Semantic_Image_Segmentation_With_Self-Correcting_Networks_CVPR_2020_paper.pdf) Semi-Supervised Semantic Image Segmentation with Self-correcting Networks, CVPR,2020.  </br>
 [[He et al. 21]](https://arxiv.org/pdf/2103.04717.pdf) Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation, CVPR, 2021. </br>
 [[Liu et al. 21]](https://arxiv.org/pdf/2103.16372.pdf)  Source-Free Domain Adaptation for Semantic Segmentation, CVPR, 2021. </br>
 [[Liu et al. 21]](https://arxiv.org/pdf/2104.11056.pdf) Domain Adaptation for Semantic Segmentation via Patch-Wise Contrastive Learning, ICCV, 2021. </br>
-
+[[Chen et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_ROAD_Reality_Oriented_CVPR_2018_paper.pdf) ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes, CVPR, 2018. </br>
+[[Wang et al. 21]](https://arxiv.org/pdf/2009.08610.pdf) Consistency Regularization with High-dimensional Non-adversarial Source-guided Perturbation for Unsupervised Domain Adaptation in Segmentation, AAAI, 2021. </br>
+[[Kundu et al. 21]](https://arxiv.org/pdf/2108.11249.pdf) Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation, ICCV, 2021. </br>
 
 ### Computer vision with novel camera sensors (II)
 [[Ghose et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Ghose_Pedestrian_Detection_in_Thermal_Images_Using_Saliency_Maps_CVPRW_2019_paper.pdf) Pedestrian Detection in Thermal Images using Saliency Maps, CVPR, 2019.   </br> 
@@ -435,3 +448,4 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 
 ### Scene Understanding in adverse vision conditions
 [[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_HLA-Face_Joint_High-Low_Adaptation_for_Low_Light_Face_Detection_CVPR_2021_paper.pdf)  HLA-Face: Joint High-Low Adaptation for Low Light Face Detection, CVPR, 2021.
+[[Lin et al. 20]](https://arxiv.org/pdf/1909.03403.pdf) Open Compound Domain Adaptation, CVPR, 2020.
