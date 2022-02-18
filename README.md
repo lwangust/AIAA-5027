@@ -400,6 +400,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Gu et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jiayuan_Gu_Learning_Region_Features_ECCV_2018_paper.pdf) Learning Region Features for Object Detection, ECCV, 2018.
 
 ### Image Segmentation
+
 [[Li et al. 18]](https://arxiv.org/pdf/1805.10180.pdf) Pyramid Attention Network for Semantic Segmentation, BMVC, 2018. </br>
 [[Fu et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.pdf)  Dual Attention Network for Scene Segmentation, CVPR, 2019. </br>
 [[Chen et al. 16]](https://arxiv.org/pdf/1511.03339.pdf)  Attention to Scale: Scale-aware Semantic Image Segmentation, ICCV, 2016. </br>
@@ -416,6 +417,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Choi et al. 19]](https://arxiv.org/pdf/1909.00589.pdf) Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation, ICCV, 2019. </br>
 [[Xu et al. 19]](https://ojs.aaai.org//index.php/AAAI/article/view/4500) Self-Ensembling Attention Networks: Addressing Domain Shift for Semantic Segmentation, AAAI, 2019. </br>
 [[Csurka et al. 21]](https://arxiv.org/pdf/2112.03241.pdf) Unsupervised Domain Adaptation for Semantic Image Segmentation: a Comprehensive Survey, Arxiv, 2021. 
+
 ---
  
 [[Huang et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_CCNet_Criss-Cross_Attention_for_Semantic_Segmentation_ICCV_2019_paper.pdf) CCNet: Criss-Cross Attention for Semantic Segmentation, ICCV, 2019. </br>
