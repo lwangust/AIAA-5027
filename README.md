@@ -450,6 +450,13 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Chang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chang_Weakly-Supervised_Semantic_Segmentation_via_Sub-Category_Exploration_CVPR_2020_paper.pdf) Weakly-Supervised Semantic Segmentation via Sub-category Exploration, CVPR, 2020. </br>
 
 
+### Computer vision with novel camera sensors  (1)- Event-based vision
+[[Zhang et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630647.pdf)  Learning to See in the Dark with Events, ECCV, 2020.  </br>
+[[Rebacq et al. 19]](https://rpg.ifi.uzh.ch/docs/TPAMI19_Rebecq.pdf)  High Speed and High Dynamic Range Video with an Event Camera, IEEE TPAMI (CVPR), 2019.  </br>
+[[Wang et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154.pdf) Event Enhanced High-Quality Image Recovery, ECCV, 2020.  </br>
+[[Wang et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Event-Based_High_Dynamic_Range_Image_and_Very_High_Frame_Rate_CVPR_2019_paper.pdf) Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks, CVPR, 2019.  </br>
+[[Wang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_EventSR_From_Asynchronous_Events_to_Image_Reconstruction_Restoration_and_Super-Resolution_CVPR_2020_paper.pdf) EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning, CVPR, 2020.  </br> 
+
 ### Computer vision with novel camera sensors (II)
 [[Ghose et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Ghose_Pedestrian_Detection_in_Thermal_Images_Using_Saliency_Maps_CVPRW_2019_paper.pdf) Pedestrian Detection in Thermal Images using Saliency Maps, CVPR, 2019.   </br> 
 [[Kieu et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf) Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV, 2020. </br> 
