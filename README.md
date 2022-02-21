@@ -24,8 +24,8 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 2/10 | Course introduction | Overview of computer vision |
 | 2/15 | Deep learning basics | TAs’ lectures for CNN basics, algorithm basics and Pytorch tuorial  |
 | 2/17 | Deep learning basics | TAs’ lectures for CNN basics, algorithm basics and Pytorch tuorial  |
-| 2/22 | DNN models in computer vision (GAN, RNN, GNN) |   |
-| 2/24 | DNN models in computer vision (GAN, RNN, GNN) |  (1) Persenation (2) Review due 2/27 (3) Project meetings |
+| 2/22 | DNN models in computer vision (GAN, RNN, RNN) |   |
+| 2/24 | DNN models in computer vision (GAN, RNN, RNN) |  (1) Persenation (2) Review due 2/27 (3) Project meetings |
 | 3/1 | Learning methods in computer vision (Transfer learning, domain adaptation, self/semi-supervised learning) |   |
 | 3/3 | Learning methods in computer vision ((Transfer learning, domain adaptation, self/semi-supervised learning)) |  (1) Persenation (2) Review due 3/6  |
 | 3/8 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing |   |
@@ -67,6 +67,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 [[Zhu et al. 17]](https://arxiv.org/pdf/1703.10593.pdf) Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks, ICCV 2017.</br>
 [[Liu et al. 17]](https://arxiv.org/pdf/1703.00848.pdf) UNIT: Unsupervised Image-to-Image Translation Networks, NeurIPS 2017. </br>
 [[Choi et al. 18]](https://arxiv.org/pdf/1711.09020.pdf)StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation, CVPR 2018.  </br>
+[[Isola et al. 17]](https://arxiv.org/pdf/1611.07004.pdf) Image-to-Image Translation with Conditional Adversarial Networks, CVPR, 2017. </br>
 
 ---
 [[Brock et al. 19]](https://arxiv.org/pdf/1809.11096.pdf) Large Scale GAN Training for High-Fidelity Natural Image Synthesis, ICLR 2019. </br>
@@ -456,7 +457,7 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Rebacq et al. 19]](https://rpg.ifi.uzh.ch/docs/TPAMI19_Rebecq.pdf)  High Speed and High Dynamic Range Video with an Event Camera, IEEE TPAMI (CVPR), 2019.  </br>
 [[Wang et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154.pdf) Event Enhanced High-Quality Image Recovery, ECCV, 2020.  </br>
 [[Wang et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Event-Based_High_Dynamic_Range_Image_and_Very_High_Frame_Rate_CVPR_2019_paper.pdf) Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks, CVPR, 2019.  </br>
-[[Wang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_EventSR_From_Asynchronous_Events_to_Image_Reconstruction_Restoration_and_Super-Resolution_CVPR_2020_paper.pdf) EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning, CVPR, 2020.  </br> 
+[[Wang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_EventSR_From_Asynchronous_Events_to_Image_Reconstruction_Restoration_and_Super-Resolution_CVPR_2020_paper.pdf) EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning, CVPR, 2020. </br> 
 [[Kim et al. 22]](https://arxiv.org/pdf/2112.06988v2.pdf)  Event-guided Deblurring of Unknown Exposure Time Videos, Arxiv, 2022. </br>
 [[Mostafavi et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Mostafavi_Event-Intensity_Stereo_Estimating_Depth_by_the_Best_of_Both_Worlds_ICCV_2021_paper.pdf) Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds, ICCV, 2021.  </br>
 [[Wang et al. 21]](https://arxiv.org/pdf/2109.01801.pdf)  Dual Transfer Learning for Event-based End-task Prediction via Pluggable Event to Image Translation, ICCV, 2021. </br>
