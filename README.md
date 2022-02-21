@@ -456,7 +456,29 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Wang et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154.pdf) Event Enhanced High-Quality Image Recovery, ECCV, 2020.  </br>
 [[Wang et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Event-Based_High_Dynamic_Range_Image_and_Very_High_Frame_Rate_CVPR_2019_paper.pdf) Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks, CVPR, 2019.  </br>
 [[Wang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_EventSR_From_Asynchronous_Events_to_Image_Reconstruction_Restoration_and_Super-Resolution_CVPR_2020_paper.pdf) EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning, CVPR, 2020.  </br> 
+[[Kim et al. 22]](https://arxiv.org/pdf/2112.06988v2.pdf)  Event-guided Deblurring of Unknown Exposure Time Videos, Arxiv, 2022. </br>
+[[Mostafavi et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Mostafavi_Event-Intensity_Stereo_Estimating_Depth_by_the_Best_of_Both_Worlds_ICCV_2021_paper.pdf) Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds, ICCV, 2021.  </br>
+[[Wang et al. 21]](https://arxiv.org/pdf/2109.01801.pdf)  Dual Transfer Learning for Event-based End-task Prediction via Pluggable Event to Image Translation, ICCV, 2021. </br>
+[[Han et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_EvIntSR-Net_Event_Guided_Multiple_Latent_Frames_Reconstruction_and_Super-Resolution_ICCV_2021_paper.pdf) EvIntSR-Net: Event Guided Multiple Latent Frames Reconstruction and Super-resolution, ICCV, 2021. </br> </br>
 
+---
+[[Lin et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf)  Learning Event-Driven Video Deblurring and Interpolation, ECCV, 2020. </br>
+[[Federico et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Paredes-Valles_Back_to_Event_Basics_Self-Supervised_Learning_of_Image_Reconstruction_for_CVPR_2021_paper.pdf)  Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy, CVPR, 2021. </br>
+[[Jing et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Turning_Frequency_to_Resolution_Video_Super-Resolution_via_Event_Cameras_CVPR_2021_paper.pdf)  Turning Frequency to Resolution: Video Super-resolution via Event Cameras, CVPR, 2021. </br>
+[[Zou et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zou_Learning_To_Reconstruct_High_Speed_and_High_Dynamic_Range_Videos_CVPR_2021_paper.pdf) Learning to Reconstruct High Speed and High Dynamic Range Videos from Events, CVPR, 2021. </br>
+[[Chen et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Indoor_Lighting_Estimation_Using_an_Event_Camera_CVPR_2021_paper.pdf)  Indoor Lighting Estimation using an Event Camera, CVPR, 2021. </br>
+[[Zhang et al. 21]](https://arxiv.org/pdf/2103.02376.pdf) Event-based Synthetic Aperture Imaging with a Hybrid Network, CVPR, 2021. </br>
+[[Tulyakov et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tulyakov_Time_Lens_Event-Based_Video_Frame_Interpolation_CVPR_2021_paper.pdf)  Time Lens: Event-based Video Frame Interpolation, CVPR, 2021. </br>
+[[Shang et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Shang_Bringing_Events_Into_Video_Deblurring_With_Non-Consecutively_Blurry_Frames_ICCV_2021_paper.pdf) Bringing Events into Video Deblurring with Non-consecutively Blurry Frames, ICCV, 2021. </br>
+[[Xu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.pdf) Motion Deblurring with Real Events, ICCV, 2021. </br>
+[[Yu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Training_Weakly_Supervised_Video_Frame_Interpolation_With_Events_ICCV_2021_paper.pdf)  Training Weakly Supervised Video Frame Interpolation with Events, ICCV, 2021.  </br>
+[[Li et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Event_Stream_Super-Resolution_via_Spatiotemporal_Constraint_Learning_ICCV_2021_paper.pdf)  Event Stream Super-Resolution via Spatiotemporal Constraint Learning, ICCV, 2021. </br>
+ [[Weng et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Weng_Event-Based_Video_Reconstruction_Using_Transformer_ICCV_2021_paper.pdf) Event-based Video Reconstruction Using Transformer, ICCV, 2021. </br>
+ [[Zou et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zou_EventHPE_Event-Based_3D_Human_Pose_and_Shape_Estimation_ICCV_2021_paper.pdf) EventHPE: Event-based 3D Human Pose and Shape Estimation, ICCV, 2021. </br>
+[[Zhang et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Object_Tracking_by_Jointly_Exploiting_Frame_and_Event_Domain_ICCV_2021_paper.pdf) Object Tracking by Jointly Exploiting Frame and Event Domain, ICCV, 2021.  </br>
+ 
+ 
+ 
 ### Computer vision with novel camera sensors (II)
 [[Ghose et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Ghose_Pedestrian_Detection_in_Thermal_Images_Using_Saliency_Maps_CVPRW_2019_paper.pdf) Pedestrian Detection in Thermal Images using Saliency Maps, CVPR, 2019.   </br> 
 [[Kieu et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf) Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV, 2020. </br> 
