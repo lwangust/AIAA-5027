@@ -460,7 +460,10 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Kim et al. 22]](https://arxiv.org/pdf/2112.06988v2.pdf)  Event-guided Deblurring of Unknown Exposure Time Videos, Arxiv, 2022. </br>
 [[Mostafavi et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Mostafavi_Event-Intensity_Stereo_Estimating_Depth_by_the_Best_of_Both_Worlds_ICCV_2021_paper.pdf) Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds, ICCV, 2021.  </br>
 [[Wang et al. 21]](https://arxiv.org/pdf/2109.01801.pdf)  Dual Transfer Learning for Event-based End-task Prediction via Pluggable Event to Image Translation, ICCV, 2021. </br>
-[[Han et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_EvIntSR-Net_Event_Guided_Multiple_Latent_Frames_Reconstruction_and_Super-Resolution_ICCV_2021_paper.pdf) EvIntSR-Net: Event Guided Multiple Latent Frames Reconstruction and Super-resolution, ICCV, 2021. </br> </br>
+[[Han et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_EvIntSR-Net_Event_Guided_Multiple_Latent_Frames_Reconstruction_and_Super-Resolution_ICCV_2021_paper.pdf) EvIntSR-Net: Event Guided Multiple Latent Frames Reconstruction and Super-resolution, ICCV, 2021. </br> 
+[[Gehrig et al. 21]](https://arxiv.org/pdf/2102.09320.pdf) Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction, ICRA, 2021. </br> 
+[[Alonso et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Alonso_EV-SegNet_Semantic_Segmentation_for_Event-Based_Cameras_CVPRW_2019_paper.pdf) EV-SegNet: Semantic Segmentation for Event-based Cameras, CVPR, 2019. </br> 
+[[Xu et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.pdf) Motion Deblurring with Real Events, ICCV, 2021. </br> 
 
 ---
 [[Lin et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530681.pdf)  Learning Event-Driven Video Deblurring and Interpolation, ECCV, 2020. </br>
