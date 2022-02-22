@@ -70,6 +70,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 [[Isola et al. 17]](https://arxiv.org/pdf/1611.07004.pdf) Image-to-Image Translation with Conditional Adversarial Networks, CVPR, 2017. </br>
 
 ---
+[[Huang et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf)  Multimodal Unsupervised Image-to-Image Translation, ECCV, 2018. </br>
 [[Brock et al. 19]](https://arxiv.org/pdf/1809.11096.pdf) Large Scale GAN Training for High-Fidelity Natural Image Synthesis, ICLR 2019. </br>
 [[Karras et al. 19] ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) A Style-Based Generator Architecture for Generative Adversarial Networks, CVPR 2019. </br>
 [[Karras et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.pdf) Analyzing and Improving the Image Quality of StyleGAN, CVPR 2020. </br>
