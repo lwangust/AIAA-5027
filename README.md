@@ -488,6 +488,11 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
  
  
 ### Computer vision with novel camera sensors (II)
+[[Kuang et al. 19]](https://arxiv.org/ftp/arxiv/papers/1810/1810.05399.pdf) Thermal Infrared Colorization via Conditional Generative Adversarial Network， ICCP, 2019. </br>
+[[Nniaz et al.20]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Kniaz_ThermalGAN_Multimodal_Color-to-Thermal_Image_Translation_for_Person_Re-Identification_in_Multispectral_ECCVW_2018_paper.pdf) ThermalGAN: Multimodal Color-to-Thermal Image Translation for Person Re-Identification in Multispectral Dataset, ECCV,2018.</br> 
+
+--- 
+
 [[Ghose et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Ghose_Pedestrian_Detection_in_Thermal_Images_Using_Saliency_Maps_CVPRW_2019_paper.pdf) Pedestrian Detection in Thermal Images using Saliency Maps, CVPR, 2019.   </br> 
 [[Kieu et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf) Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV, 2020. </br> 
 
