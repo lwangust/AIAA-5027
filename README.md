@@ -497,9 +497,12 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Zhang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_ABMDRNet_Adaptive-Weighted_Bi-Directional_Modality_Difference_Reduction_Network_for_RGB-T_Semantic_CVPR_2021_paper.pdf) ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation, CVPR, 2021. </br> 
 
 #### 360 vision
-[[Ghose et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Ghose_Pedestrian_Detection_in_Thermal_Images_Using_Saliency_Maps_CVPRW_2019_paper.pdf) Pedestrian Detection in Thermal Images using Saliency Maps, CVPR, 2019. </br> 
+[[Wang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_BiFuse_Monocular_360_Depth_Estimation_via_Bi-Projection_Fusion_CVPR_2020_paper.pdf) BiFuse: Monocular 360◦ Depth Estimation via Bi-Projection Fusion, CVPR, 2020. </br> 
+[[Deng et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LAU-Net_Latitude_Adaptive_Upscaling_Network_for_Omnidirectional_Image_Super-Resolution_CVPR_2021_paper.pdf) LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-resolution, CVPR, 2021. </br> 
+[[Lee et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_SpherePHD_Applying_CNNs_on_a_Spherical_PolyHeDron_Representation_of_360deg_CVPR_2019_paper.pdf) SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360◦ Images, CVPR, 2019.  </br> 
 
 ---- 
+#### Thermal camera-based vision (reading list)
 
 [[Ghose et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Ghose_Pedestrian_Detection_in_Thermal_Images_Using_Saliency_Maps_CVPRW_2019_paper.pdf) Pedestrian Detection in Thermal Images using Saliency Maps, CVPR, 2019. </br> 
 [[Kieu et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf) Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV, 2020. </br>   
@@ -520,6 +523,16 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Ye et al. 20]](https://www.comp.hkbu.edu.hk/~mangye/files/TIP_MACE.pdf) Cross-Modality Person Re-Identification via Modality-aware Collaborative Ensemble Learning, IEEE TIP, 2020.  </br>
 [[Wang et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf) Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification, CVPR, 2019. </br>
  
+#### 360 vision (reading list)
+[[Jin et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jin_Geometric_Structure_Based_and_Regularized_Depth_Estimation_From_360_Indoor_CVPR_2020_paper.pdf) Geometric Structure Based and Regularized Depth Estimation From 360◦ Indoor Imagery, CVPR, 2020.  </br> 
+[[Deng et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LAU-Net_Latitude_Adaptive_Upscaling_Network_for_Omnidirectional_Image_Super-Resolution_CVPR_2021_paper.pdf) LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-resolution, CVPR, 2021. </br>
+[[Sun et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_HoHoNet_360_Indoor_Holistic_Understanding_With_Latent_Horizontal_Features_CVPR_2021_paper.pdf) HoHoNet: 360 Indoor Holistic Understanding with Latent Horizontal Features, CVPR, 2021. </br>
+[[Yang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Capturing_Omni-Range_Context_for_Omnidirectional_Segmentation_CVPR_2021_paper.pdf) Capturing Omni-Range Context for Omnidirectional Segmentation, CVPR, 2021. </br>
+[[Yang et al. 21]](https://ieeexplore.ieee.org/abstract/document/9321183?casa_token=HmK2DmzfMqYAAAAA:aNRR_akT-ex4DGE1uzKl91K9ucSXNYqMxcWWE9iwqnr5iR1RpCpakCoS5tQyaHDKFCROLG4) Is Context-Aware CNN Ready for the Surroundings? Panoramic Semantic Segmentation in the Wild, IEEE TIP, 2021. </br>
+[[Li et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Looking_Here_or_There_Gaze_Following_in_360-Degree_Images_ICCV_2021_paper.pdf) Looking here or there? Gaze Following in 360-Degree Images, ICCV, 2021.  </br>
+[[Djilali et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Djilali_Rethinking_360deg_Image_Visual_Attention_Modelling_With_Unsupervised_Learning._ICCV_2021_paper.pdf) Rethinking 360° Image Visual Attention Modelling with Unsupervised Learning, ICCV, 2021. </br>
+[[Tran et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_SSLayout360_Semi-Supervised_Indoor_Layout_Estimation_From_360deg_Panorama_CVPR_2021_paper.pdf) SSLayout360: Semi-Supervised Indoor Layout Estimation from 360◦ Panorama, CVPR, 2021. </br>
+
 ### Scene Understanding in adverse vision conditions
 [[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_HLA-Face_Joint_High-Low_Adaptation_for_Low_Light_Face_Detection_CVPR_2021_paper.pdf)  HLA-Face: Joint High-Low Adaptation for Low Light Face Detection, CVPR, 2021.
 [[Lin et al. 20]](https://arxiv.org/pdf/1909.03403.pdf) Open Compound Domain Adaptation, CVPR, 2020.
