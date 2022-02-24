@@ -500,6 +500,12 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Wang et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_BiFuse_Monocular_360_Depth_Estimation_via_Bi-Projection_Fusion_CVPR_2020_paper.pdf) BiFuse: Monocular 360◦ Depth Estimation via Bi-Projection Fusion, CVPR, 2020. </br> 
 [[Deng et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LAU-Net_Latitude_Adaptive_Upscaling_Network_for_Omnidirectional_Image_Super-Resolution_CVPR_2021_paper.pdf) LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-resolution, CVPR, 2021. </br> 
 [[Lee et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_SpherePHD_Applying_CNNs_on_a_Spherical_PolyHeDron_Representation_of_360deg_CVPR_2019_paper.pdf) SpherePHD: Applying CNNs on a Spherical PolyHeDron Representation of 360◦ Images, CVPR, 2019.  </br> 
+[[Cohen et al. 18]](https://arxiv.org/pdf/1801.10130.pdf) SPHERICAL CNNS, ICLR, 2018. </br>
+[[Chen et al. 18]](https://arxiv.org/pdf/1806.01320.pdf) Cube Padding for Weakly-Supervised Saliency Prediction in 360◦ Videos, CVPR, 2018.  </br>
+[[Jeon et al. 18]](http://cg.postech.ac.kr/papers/2018_ACCV_Jeon.pdf)  Deep Upright Adjustment of 360 Panoramas Using Multiple Roll Estimations, ACCV, 2018 </br>
+[[Davidson et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730579.pdf) 360o Camera Alignment via Segmentation, ECCV, 2020. </br>
+[[Su et al. 18]](https://proceedings.neurips.cc/paper/2017/file/0c74b7f78409a4022a2c4c5a5ca3ee19-Paper.pdf) Learning Spherical Convolution for Fast Features from 360° Imagery, NIPS, 2018. </br>
+[[Tateno et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Keisuke_Tateno_Distortion-Aware_Convolutional_Filters_ECCV_2018_paper.pdf) Distortion-Aware Convolutional Filters for Dense Prediction in Panoramic Images, ECCV, 2018.  </br>
 
 ---- 
 #### Thermal camera-based vision (reading list)
