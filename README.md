@@ -490,11 +490,21 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 ### Computer vision with novel camera sensors (II)
 [[Kuang et al. 19]](https://arxiv.org/ftp/arxiv/papers/1810/1810.05399.pdf) Thermal Infrared Colorization via Conditional Generative Adversarial Network， ICCP, 2019. </br>
 [[Nniaz et al.20]](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Kniaz_ThermalGAN_Multimodal_Color-to-Thermal_Image_Translation_for_Person_Re-Identification_in_Multispectral_ECCVW_2018_paper.pdf) ThermalGAN: Multimodal Color-to-Thermal Image Translation for Person Re-Identification in Multispectral Dataset, ECCV,2018.</br> 
+[[Li et al. 19]](https://arxiv.org/pdf/1907.10303.pdf) Segmenting Objects in Day and Night: Edge-Conditioned CNN for Thermal Image Semantic Segmentation, IEEE TNNLS, 2019. </br> 
+[[Wang et al. 20]](https://arxiv.org/pdf/2002.04114.pdf) Cross-Modality Paired-Images Generation for RGB-Infrared Person Re-Identification, AAAI,2020. </br> 
+[[Deng et al. 21]](https://arxiv.org/pdf/2110.08988.pdf) FEANet: Feature-Enhanced Attention Network for RGB-Thermal Real-time Semantic Segmentation, ICRA,  2021.  </br> 
+[[Sun et al. 20]](https://hlwang1124.github.io/data/sun2020fuseseg.pdf) FuseSeg: Semantic Segmentation of Urban Scenes Based on RGB and Thermal Data Fusion, IEEE TASE, 2020. </br> 
+[[Zhang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_ABMDRNet_Adaptive-Weighted_Bi-Directional_Modality_Difference_Reduction_Network_for_RGB-T_Semantic_CVPR_2021_paper.pdf) ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation, CVPR, 2021. </br> 
+
+#### 360 vision
+
+
 
 --- 
 
 [[Ghose et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Ghose_Pedestrian_Detection_in_Thermal_Images_Using_Saliency_Maps_CVPRW_2019_paper.pdf) Pedestrian Detection in Thermal Images using Saliency Maps, CVPR, 2019.   </br> 
-[[Kieu et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf) Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV, 2020. </br> 
+[[Kieu et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf) Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV, 2020. </br>  
+[[Li et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700460.pdf)  Full-Time Monocular Road Detection Using Zero-Distribution Prior of Angle of Polarization, ECCV, 2020. </br>  
 
 ### Scene Understanding in adverse vision conditions
 [[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_HLA-Face_Joint_High-Low_Adaptation_for_Low_Light_Face_Detection_CVPR_2021_paper.pdf)  HLA-Face: Joint High-Low Adaptation for Low Light Face Detection, CVPR, 2021.
