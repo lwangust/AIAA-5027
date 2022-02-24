@@ -497,10 +497,9 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Zhang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_ABMDRNet_Adaptive-Weighted_Bi-Directional_Modality_Difference_Reduction_Network_for_RGB-T_Semantic_CVPR_2021_paper.pdf) ABMDRNet: Adaptive-weighted Bi-directional Modality Difference Reduction Network for RGB-T Semantic Segmentation, CVPR, 2021. </br> 
 
 #### 360 vision
+[[Ghose et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Ghose_Pedestrian_Detection_in_Thermal_Images_Using_Saliency_Maps_CVPRW_2019_paper.pdf) Pedestrian Detection in Thermal Images using Saliency Maps, CVPR, 2019. </br> 
 
-
-
---- 
+---- 
 
 [[Ghose et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Ghose_Pedestrian_Detection_in_Thermal_Images_Using_Saliency_Maps_CVPRW_2019_paper.pdf) Pedestrian Detection in Thermal Images using Saliency Maps, CVPR, 2019. </br> 
 [[Kieu et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf) Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV, 2020. </br>   
