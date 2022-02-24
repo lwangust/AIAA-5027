@@ -505,7 +505,7 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 #### Thermal camera-based vision (reading list)
 
 [[Ghose et al. 19]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Ghose_Pedestrian_Detection_in_Thermal_Images_Using_Saliency_Maps_CVPRW_2019_paper.pdf) Pedestrian Detection in Thermal Images using Saliency Maps, CVPR, 2019. </br> 
-[[Kieu et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf) Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV, 2020. </br>   
+[[Kieu et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670545.pdf) Task-conditioned Domain Adaptation for Pedestrian Detection in Thermal Imagery, ECCV, 2020.
 [[Li et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700460.pdf) Full-Time Monocular Road Detection Using Zero-Distribution Prior of Angle of Polarization, ECCV, 2020. </br>  
 [[Choi et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf) Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification, CVPR, 2020. </br>  
 [[Wu et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Discover_Cross-Modality_Nuances_for_Visible-Infrared_Person_Re-Identification_CVPR_2021_paper.pdf)  Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification, CVPR, 2021. </br>  
@@ -522,7 +522,8 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Feng et al. 20]](https://ieeexplore.ieee.org/abstract/document/8765608)  Learning Modality-Specific Representations for Visible-Infrared Person Re-Identification, IEEE TIP, 2020.  </br>
 [[Ye et al. 20]](https://www.comp.hkbu.edu.hk/~mangye/files/TIP_MACE.pdf) Cross-Modality Person Re-Identification via Modality-aware Collaborative Ensemble Learning, IEEE TIP, 2020.  </br>
 [[Wang et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_to_Reduce_Dual-Level_Discrepancy_for_Infrared-Visible_Person_Re-Identification_CVPR_2019_paper.pdf) Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification, CVPR, 2019. </br>
- 
+
+  
 #### 360 vision (reading list)
 [[Jin et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jin_Geometric_Structure_Based_and_Regularized_Depth_Estimation_From_360_Indoor_CVPR_2020_paper.pdf) Geometric Structure Based and Regularized Depth Estimation From 360◦ Indoor Imagery, CVPR, 2020.  </br> 
 [[Deng et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LAU-Net_Latitude_Adaptive_Upscaling_Network_for_Omnidirectional_Image_Super-Resolution_CVPR_2021_paper.pdf) LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-resolution, CVPR, 2021. </br>
