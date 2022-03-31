@@ -40,8 +40,8 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 4/7 |Computer vision with novel cameras (I) Event camera-based vision  | (1) Persenation (2) Review due 4/10 |
 | 4/12 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  |  |
 | 4/14 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  | (1) Persenation (2) Review due 4/17 (3) Project meetings |
-| 4/19 |Special vision problems (Learning  in adverse visual conditions) |  |
-| 4/21 |Special vision problems (Learning  in adverse visual conditions) | (1) Persenation (2) Review due 4/24 |
+| 4/19 |Depth and Motion Estimation in Vision  |  |
+| 4/21 |Depth and Motion Estimation in Vision  | (1) Persenation (2) Review due 4/24 |
 | 4/26 |Adversarial robustness in computer vision (Adversrial attack and defense) |  |
 | 4/28 |Adversarial robustness in computer vision (Adversrial attack and defense)| (1) Persenation (2) Review due 4/31 (3) Project meetings |
 | 5/3 |Potential and Challenges in computer vision (data, computation, learning, sensor) (self-driving and robotics) |  |
@@ -541,3 +541,13 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 ### Scene Understanding in adverse vision conditions
 [[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_HLA-Face_Joint_High-Low_Adaptation_for_Low_Light_Face_Detection_CVPR_2021_paper.pdf)  HLA-Face: Joint High-Low Adaptation for Low Light Face Detection, CVPR, 2021.
 [[Lin et al. 20]](https://arxiv.org/pdf/1909.03403.pdf) Open Compound Domain Adaptation, CVPR, 2020.
+
+### Depth and Motion Estimation in Vision
+
+#### Motion Estimation (Optical Flow)
+[[Dosovitskiy et al. 15]](https://openaccess.thecvf.com/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf) Flownet: Learning optical flow with convolutional networks, ICCV, 2015. </br>
+[[Ilg et al. 15]](https://arxiv.org/pdf/1612.01925.pdf) FlowNet 2.0: Evolution of Optical Flow Estimation With Deep Networks, CVPR, 2017. </br>
+[[[Ilg et al. 18]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Eddy_Ilg_Occlusions_Motion_and_ECCV_2018_paper.pdf) Occlusions, Motion and Depth Boundaries with a Generic Network for Disparity, Optical Flow or Scene Flow Estimation, ECCV, 2018. </br>
+[[Ranjan et al. 17]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ranjan_Optical_Flow_Estimation_CVPR_2017_paper.pdf) Optical Flow Estimation using a Spatial Pyramid Network, CVPR, 2017. </br>
+
+
