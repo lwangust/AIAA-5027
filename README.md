@@ -542,10 +542,11 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 ### Depth and Motion Estimation in Vision (Lecture notes)
 #### Depth Estimation 
 [[Ming et al. 21]](https://www-sciencedirect-com.lib.ezproxy.ust.hk/science/article/pii/S0925231220320014) Deep learning for monocular depth estimation: A review, Neurocomputing, 2021.  </br>
-[[Eigen et al.]](https://arxiv.org/pdf/1406.2283.pdf), “Depth Map Prediction from a Single Image using a Multi-Scale Deep Network”, NeurIPS, 2014.   </br>
+[[Eigen et al.]](https://arxiv.org/pdf/1406.2283.pdf), “Depth Map Prediction from a Single Image using a Multi-Scale Deep Network”, NeurIPS, 2014. </br>
 [[Laina et al. 16]](https://arxiv.org/pdf/1606.00373.pdf) Deeper depth prediction with fully convolutional residual networks, 3D vision,2016.  </br> 
 [[Fu et al. 18]](https://arxiv.org/pdf/1806.02446.pdf) Deep Ordinal Regression Network for Monocular Depth Estimation, CVPR, 2018. </br>
 [[Ren et al. 18]](https://arxiv.org/pdf/1803.08669.pdf) Pyramid Stereo Matching Network, CVPR, 2018.  </br>
+[[Jung et al. 17]](url) Depth prediction from a single image with conditional adversarial networks, ICIP, 2017. </br>
 
 #### Motion Estimation (Optical Flow)
 [[Dosovitskiy et al. 15]](https://openaccess.thecvf.com/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf) Flownet: Learning optical flow with convolutional networks, ICCV, 2015. </br>
