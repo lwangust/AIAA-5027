@@ -538,11 +538,14 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Djilali et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Djilali_Rethinking_360deg_Image_Visual_Attention_Modelling_With_Unsupervised_Learning._ICCV_2021_paper.pdf) Rethinking 360° Image Visual Attention Modelling with Unsupervised Learning, ICCV, 2021. </br>
 [[Tran et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_SSLayout360_Semi-Supervised_Indoor_Layout_Estimation_From_360deg_Panorama_CVPR_2021_paper.pdf) SSLayout360: Semi-Supervised Indoor Layout Estimation from 360◦ Panorama, CVPR, 2021. </br>
 
-### Scene Understanding in adverse vision conditions
-[[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_HLA-Face_Joint_High-Low_Adaptation_for_Low_Light_Face_Detection_CVPR_2021_paper.pdf)  HLA-Face: Joint High-Low Adaptation for Low Light Face Detection, CVPR, 2021.
-[[Lin et al. 20]](https://arxiv.org/pdf/1909.03403.pdf) Open Compound Domain Adaptation, CVPR, 2020.
 
-### Depth and Motion Estimation in Vision
+### Depth and Motion Estimation in Vision (Lecture notes)
+#### Depth Estimation 
+[[Ming et al. 21]](https://www-sciencedirect-com.lib.ezproxy.ust.hk/science/article/pii/S0925231220320014) Deep learning for monocular depth estimation: A review, Neurocomputing, 2021.  </br>
+[[Eigen et al.]](https://arxiv.org/pdf/1406.2283.pdf), “Depth Map Prediction from a Single Image using a Multi-Scale Deep Network”, NeurIPS, 2014.   </br>
+[[Laina et al. 16]](https://arxiv.org/pdf/1606.00373.pdf) Deeper depth prediction with fully convolutional residual networks, 3D vision,2016.  </br> 
+[[Fu et al. 18]](https://arxiv.org/pdf/1806.02446.pdf) Deep Ordinal Regression Network for Monocular Depth Estimation, CVPR, 2018. </br>
+[[Ren et al. 18]](https://arxiv.org/pdf/1803.08669.pdf) Pyramid Stereo Matching Network, CVPR, 2018.  </br>
 
 #### Motion Estimation (Optical Flow)
 [[Dosovitskiy et al. 15]](https://openaccess.thecvf.com/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf) Flownet: Learning optical flow with convolutional networks, ICCV, 2015. </br>
@@ -550,4 +553,11 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[[Ilg et al. 18]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Eddy_Ilg_Occlusions_Motion_and_ECCV_2018_paper.pdf) Occlusions, Motion and Depth Boundaries with a Generic Network for Disparity, Optical Flow or Scene Flow Estimation, ECCV, 2018. </br>
 [[Ranjan et al. 17]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ranjan_Optical_Flow_Estimation_CVPR_2017_paper.pdf) Optical Flow Estimation using a Spatial Pyramid Network, CVPR, 2017. </br>
 
+#### Depth and Motion  Estimation   (Reading list)
+
+
+
+### Scene Understanding in adverse vision conditions
+[[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_HLA-Face_Joint_High-Low_Adaptation_for_Low_Light_Face_Detection_CVPR_2021_paper.pdf)  HLA-Face: Joint High-Low Adaptation for Low Light Face Detection, CVPR, 2021.
+[[Lin et al. 20]](https://arxiv.org/pdf/1909.03403.pdf) Open Compound Domain Adaptation, CVPR, 2020.
 
