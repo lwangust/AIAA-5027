@@ -539,8 +539,8 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Tran et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_SSLayout360_Semi-Supervised_Indoor_Layout_Estimation_From_360deg_Panorama_CVPR_2021_paper.pdf) SSLayout360: Semi-Supervised Indoor Layout Estimation from 360◦ Panorama, CVPR, 2021. </br>
 
 
-### Depth and Motion Estimation in Vision (Lecture notes)
-#### Depth Estimation 
+### Depth and Motion Estimation in Vision 
+#### Depth Estimation (Lecture notes)
 [[Ming et al. 21]](https://www-sciencedirect-com.lib.ezproxy.ust.hk/science/article/pii/S0925231220320014) Deep learning for monocular depth estimation: A review, Neurocomputing, 2021.  </br>
 [[Eigen et al.]](https://arxiv.org/pdf/1406.2283.pdf), “Depth Map Prediction from a Single Image using a Multi-Scale Deep Network”, NeurIPS, 2014. </br>
 [[Laina et al. 16]](https://arxiv.org/pdf/1606.00373.pdf) Deeper depth prediction with fully convolutional residual networks, 3D vision,2016.  </br> 
@@ -548,13 +548,30 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Ren et al. 18]](https://arxiv.org/pdf/1803.08669.pdf) Pyramid Stereo Matching Network, CVPR, 2018.  </br>
 [[Jung et al. 17]](url) Depth prediction from a single image with conditional adversarial networks, ICIP, 2017. </br>
 
-#### Motion Estimation (Optical Flow)
+#### Motion Estimation (Optical Flow) (Lecture notes)
 [[Dosovitskiy et al. 15]](https://openaccess.thecvf.com/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf) Flownet: Learning optical flow with convolutional networks, ICCV, 2015. </br>
 [[Ilg et al. 15]](https://arxiv.org/pdf/1612.01925.pdf) FlowNet 2.0: Evolution of Optical Flow Estimation With Deep Networks, CVPR, 2017. </br>
 [[[Ilg et al. 18]](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Eddy_Ilg_Occlusions_Motion_and_ECCV_2018_paper.pdf) Occlusions, Motion and Depth Boundaries with a Generic Network for Disparity, Optical Flow or Scene Flow Estimation, ECCV, 2018. </br>
 [[Ranjan et al. 17]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ranjan_Optical_Flow_Estimation_CVPR_2017_paper.pdf) Optical Flow Estimation using a Spatial Pyramid Network, CVPR, 2017. </br>
 
 #### Depth and Motion  Estimation   (Reading list)
+[[Xu et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Structured_Attention_Guided_CVPR_2018_paper.pdf) Structured Attention Guided Convolutional Neural Fields for Monocular Depth Estimation, CVPR, 2018. </br>
+[[Godard et al. 17]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Godard_Unsupervised_Monocular_Depth_CVPR_2017_paper.pdf?msclkid=4e0b72c4b31311ec8379d9fffe94ff53)  Unsupervised Monocular Depth Estimation with Left-Right Consistency, CVPR, 2017. </br>
+[[Kuznietsov et al. 17]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kuznietsov_Semi-Supervised_Deep_Learning_CVPR_2017_paper.pdf?msclkid=ab7379b1b31311ec9829857fbccfca4f) Semi-Supervised Deep Learning for Monocular Depth Map Prediction, CVPR, 2017.  </br>
+[[Pilzer et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pilzer_Refine_and_Distill_Exploiting_Cycle-Inconsistency_and_Knowledge_Distillation_for_Unsupervised_CVPR_2019_paper.pdf?msclkid=d7854ed1b31311ec9828b9837799361e)  Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation, CVPR, 2019. </br>
+[[Cun et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580732.pdf?msclkid=d7851131b31311eca4b25ebb634ad62e)  Defocus Blur Detection via Depth Distillation, ECCV, 2020. </br 
+[[Ranftl et al. 21]](https://arxiv.org/pdf/2103.13413v1.pdf) Vision Transformers for Dense Prediction, CVPR, 2021. </br>
+[[Meng et al. 19]](https://arxiv.org/pdf/1812.05642v2.pdf) SIGNet: Semantic Instance Aided Unsupervised 3D Geometry Perception, CVPR, 2019. </br>
+[[Liu et al. 21]](https://arxiv.org/pdf/2108.07628v1.pdf)  Self-supervised Monocular Depth Estimation for All Day Images using Domain Separation, ICCV, 2021. </br>
+[[Huynh et al. 20]](https://arxiv.org/pdf/2004.02760v2.pdf)  Guiding Monocular Depth Estimation Using Depth-Attention Volume, ECCV, 2020. </br>
+[[Watson et al. 20]](https://arxiv.org/pdf/2008.01484v2.pdf) Learning Stereo from Single Images, ECCV, 2020. </br>
+[[YUan et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yuan_Efficient_Dynamic_Scene_Deblurring_Using_Spatially_Variant_Deconvolution_Network_With_CVPR_2020_paper.pdf?msclkid=405bb458b31611ecbbade73ec6204312), Efficient Dynamic Scene Deblurring Using Spatially Variant Deconvolution
+Network with Optical Flow Guided Training, CVPR, 2020. </br>
+[[Yan et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Optical_Flow_in_Dense_Foggy_Scenes_Using_Semi-Supervised_Learning_CVPR_2020_paper.pdf?msclkid=8d28ca4cb31611ec8afd797ae1ef388e) Optical Flow in Dense Foggy Scenes Using Semi-Supervised Learning, CVPR, 2020.  </br>
+[[Aleotti et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Aleotti_Learning_Optical_Flow_From_Still_Images_CVPR_2021_paper.pdf?msclkid=c3116ce6b31611ecb7331cd1de5688a6)  Learning optical flow from still images, CVPR, 2021. </br>
+[[Luo et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_UPFlow_Upsampling_Pyramid_for_Unsupervised_Optical_Flow_Learning_CVPR_2021_paper.pdf?msclkid=c3118a04b31611ec99b8b3dd7bca20c2)  UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning, CVPR, 2021. </br>
+
+### Adversarial Robustness in Computer Vision 
 
 
 
