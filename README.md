@@ -572,7 +572,17 @@ Network with Optical Flow Guided Training, CVPR, 2020. </br>
 [[Luo et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_UPFlow_Upsampling_Pyramid_for_Unsupervised_Optical_Flow_Learning_CVPR_2021_paper.pdf?msclkid=c3118a04b31611ec99b8b3dd7bca20c2)  UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning, CVPR, 2021. </br>
 
 ### Adversarial Robustness in Computer Vision 
-
+[[Goodfellow et al. 15]](https://arxiv.org/pdf/1412.6572.pdf) Explaining and harnessing adversarial examples, ICLR, 2015. 
+[[Szegedy et al. 14]](https://arxiv.org/pdf/1312.6199.pdf) Intriguing properties of neural networks, ICLR, 2014. 
+[[Su et al. 17]](https://arxiv.org/pdf/1710.08864.pdf) One pixel attack for fooling deep neural networks, Arxiv, 2017. 
+[[Karmon et al. 18]](http://proceedings.mlr.press/v80/karmon18a/karmon18a.pdf) LaVAN: Localized and Visible Adversarial Noise, ICML, 2018. 
+[[Xie et al. 17]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Xie_Adversarial_Examples_for_ICCV_2017_paper.pdf) Adversarial Examples for Semantic Segmentation and Object Detection, ICCV, 2017. 
+[[Moosavi et al. 17]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Moosavi-Dezfooli_Universal_Adversarial_Perturbations_CVPR_2017_paper.pdf) Universal adversarial perturbations, ICCV, 2017. 
+[[Poursaeed et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Poursaeed_Generative_Adversarial_Perturbations_CVPR_2018_paper.pdf)  Generative Adversarial Perturbations, CVPR, 2018.
+[[Chen et al. 18]](https://arxiv.org/pdf/1804.05810.pdf)  ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector, ECML PKDD, 2018.
+[[Chao et al. 19]](https://openreview.net/pdf?id=HknbyQbC-) Generating Adversarial Examples with Adversarial Networks, IJCAI, 2019. 
+[[Wang et al. 21]](https://ieeexplore.ieee.org/document/9524508) Psat-gan: Efficient adversarial attacks against holistic scene understanding, IEEE TIP, 2021. 
+[[Carli et al. 17]](https://arxiv.org/pdf/1608.04644.pdf)  Towards Evaluating the Robustness of Neural Networks, Axiv, 2017. 
 
 
 ### Scene Understanding in adverse vision conditions
