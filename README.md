@@ -585,6 +585,7 @@ Network with Optical Flow Guided Training, CVPR, 2020. </br>
 [[Carli et al. 17]](https://arxiv.org/pdf/1608.04644.pdf)  Towards Evaluating the Robustness of Neural Networks, Axiv, 2017. </br>
 [[Xiao et al. 18]](https://arxiv.org/pdf/1801.02612.pdf)  SPATIALLY TRANSFORMED ADVERSARIAL EXAMPLES, ICLR,2018. </br>
 
+#### Reading list 
 ---------------------------
 [[Zhou et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_DaST_Data-Free_Substitute_Training_for_Adversarial_Attacks_CVPR_2020_paper.pdf) DaST: Data-Free Substitute Training for Adversarial Attacks, CVPR, 2020. </br>
 [[Naseer et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.pdf) A Self-supervised Approach for Adversarial Robustness, CVPR, 2020. </br>
@@ -596,11 +597,13 @@ Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student 
 [[Arnab et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Arnab_On_the_Robustness_CVPR_2018_paper.pdf) On the Robustness of Semantic Segmentation Models to Adversarial Attacks, CVPR, 2018.  </br>
 [[He et al. 19]](https://arxiv.org/pdf/1904.12181.pdf) Biomedical Image Segmentation against Adversarial Attacks, AAAI, 2019.  </br>
 [[Joshi et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Joshi_Semantic_Adversarial_Attacks_Parametric_Transformations_That_Fool_Deep_Classifiers_ICCV_2019_paper.pdf) Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers, CVPR, 2019. </br>
+[[Shamsabadi et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shamsabadi_ColorFool_Semantic_Adversarial_Colorization_CVPR_2020_paper.pdf)  ColorFool: Semantic Adversarial Colorization, CVPR, 2020.
 
+<!-- 
 ### Scene Understanding in adverse vision conditions 
 [[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_HLA-Face_Joint_High-Low_Adaptation_for_Low_Light_Face_Detection_CVPR_2021_paper.pdf)  HLA-Face: Joint High-Low Adaptation for Low Light Face Detection, CVPR, 2021.
 [[Lin et al. 20]](https://arxiv.org/pdf/1909.03403.pdf) Open Compound Domain Adaptation, CVPR, 2020.
-
+ -->
 
 
 
