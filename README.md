@@ -572,20 +572,35 @@ Network with Optical Flow Guided Training, CVPR, 2020. </br>
 [[Luo et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_UPFlow_Upsampling_Pyramid_for_Unsupervised_Optical_Flow_Learning_CVPR_2021_paper.pdf?msclkid=c3118a04b31611ec99b8b3dd7bca20c2)  UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning, CVPR, 2021. </br>
 
 ### Adversarial Robustness in Computer Vision 
-[[Goodfellow et al. 15]](https://arxiv.org/pdf/1412.6572.pdf) Explaining and harnessing adversarial examples, ICLR, 2015. 
-[[Szegedy et al. 14]](https://arxiv.org/pdf/1312.6199.pdf) Intriguing properties of neural networks, ICLR, 2014. 
-[[Su et al. 17]](https://arxiv.org/pdf/1710.08864.pdf) One pixel attack for fooling deep neural networks, Arxiv, 2017. 
-[[Karmon et al. 18]](http://proceedings.mlr.press/v80/karmon18a/karmon18a.pdf) LaVAN: Localized and Visible Adversarial Noise, ICML, 2018. 
-[[Xie et al. 17]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Xie_Adversarial_Examples_for_ICCV_2017_paper.pdf) Adversarial Examples for Semantic Segmentation and Object Detection, ICCV, 2017. 
-[[Moosavi et al. 17]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Moosavi-Dezfooli_Universal_Adversarial_Perturbations_CVPR_2017_paper.pdf) Universal adversarial perturbations, ICCV, 2017. 
-[[Poursaeed et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Poursaeed_Generative_Adversarial_Perturbations_CVPR_2018_paper.pdf)  Generative Adversarial Perturbations, CVPR, 2018.
-[[Chen et al. 18]](https://arxiv.org/pdf/1804.05810.pdf)  ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector, ECML PKDD, 2018.
-[[Chao et al. 19]](https://openreview.net/pdf?id=HknbyQbC-) Generating Adversarial Examples with Adversarial Networks, IJCAI, 2019. 
-[[Wang et al. 21]](https://ieeexplore.ieee.org/document/9524508) Psat-gan: Efficient adversarial attacks against holistic scene understanding, IEEE TIP, 2021. 
-[[Carli et al. 17]](https://arxiv.org/pdf/1608.04644.pdf)  Towards Evaluating the Robustness of Neural Networks, Axiv, 2017. 
+[[Goodfellow et al. 15]](https://arxiv.org/pdf/1412.6572.pdf) Explaining and harnessing adversarial examples, ICLR, 2015.  </br>
+[[Szegedy et al. 14]](https://arxiv.org/pdf/1312.6199.pdf) Intriguing properties of neural networks, ICLR, 2014. </br>
+[[Su et al. 17]](https://arxiv.org/pdf/1710.08864.pdf) One pixel attack for fooling deep neural networks, Arxiv, 2017. </br>
+[[Karmon et al. 18]](http://proceedings.mlr.press/v80/karmon18a/karmon18a.pdf) LaVAN: Localized and Visible Adversarial Noise, ICML, 2018. </br>
+[[Xie et al. 17]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Xie_Adversarial_Examples_for_ICCV_2017_paper.pdf) Adversarial Examples for Semantic Segmentation and Object Detection, ICCV, 2017. </br>
+[[Moosavi et al. 17]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Moosavi-Dezfooli_Universal_Adversarial_Perturbations_CVPR_2017_paper.pdf) Universal adversarial perturbations, ICCV, 2017. </br>
+[[Poursaeed et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Poursaeed_Generative_Adversarial_Perturbations_CVPR_2018_paper.pdf)  Generative Adversarial Perturbations, CVPR, 2018. </br>
+[[Chen et al. 18]](https://arxiv.org/pdf/1804.05810.pdf)  ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector, ECML PKDD, 2018. </br>
+[[Chao et al. 19]](https://openreview.net/pdf?id=HknbyQbC-) Generating Adversarial Examples with Adversarial Networks, IJCAI, 2019. </br>
+[[Wang et al. 21]](https://ieeexplore.ieee.org/document/9524508) Psat-gan: Efficient adversarial attacks against holistic scene understanding, IEEE TIP, 2021. </br>
+[[Carli et al. 17]](https://arxiv.org/pdf/1608.04644.pdf)  Towards Evaluating the Robustness of Neural Networks, Axiv, 2017. </br>
+[[Xiao et al. 18]](https://arxiv.org/pdf/1801.02612.pdf)  SPATIALLY TRANSFORMED ADVERSARIAL EXAMPLES, ICLR,2018. </br>
 
+---------------------------
+[[Zhou et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_DaST_Data-Free_Substitute_Training_for_Adversarial_Attacks_CVPR_2020_paper.pdf) DaST: Data-Free Substitute Training for Adversarial Attacks, CVPR, 2020. </br>
+[[Naseer et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.pdf) A Self-supervised Approach for Adversarial Robustness, CVPR, 2020. </br>
+[[Zi et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zi_Revisiting_Adversarial_Robustness_Distillation_Robust_Soft_Labels_Make_Student_Better_ICCV_2021_paper.pdf) 
+Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better, CVPR, 2021. </br>
+[[Mahmood et al. 21]](https://arxiv.org/pdf/2104.02610v2.pdf) On the Robustness of Vision Transformers to Adversarial Examples, ICCV, 2021.  </br>
+[[Wang et al. 21]](https://arxiv.org/pdf/2107.14185.pdf) Feature Importance-aware Transferable Adversarial Attacks, ICCV, 2021.  </br>
+[[Mao et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470154.pdf) Multitask Learning Strengthens Adversarial Robustness, ECCV, 2020 </br>
+[[Arnab et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Arnab_On_the_Robustness_CVPR_2018_paper.pdf) On the Robustness of Semantic Segmentation Models to Adversarial Attacks, CVPR, 2018.  </br>
+[[He et al. 19]](https://arxiv.org/pdf/1904.12181.pdf) Biomedical Image Segmentation against Adversarial Attacks, AAAI, 2019.  </br>
+[[Joshi et al. 19]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Joshi_Semantic_Adversarial_Attacks_Parametric_Transformations_That_Fool_Deep_Classifiers_ICCV_2019_paper.pdf) Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers, CVPR, 2019. </br>
 
-### Scene Understanding in adverse vision conditions
+### Scene Understanding in adverse vision conditions 
 [[Wang et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_HLA-Face_Joint_High-Low_Adaptation_for_Low_Light_Face_Detection_CVPR_2021_paper.pdf)  HLA-Face: Joint High-Low Adaptation for Low Light Face Detection, CVPR, 2021.
 [[Lin et al. 20]](https://arxiv.org/pdf/1909.03403.pdf) Open Compound Domain Adaptation, CVPR, 2020.
+
+
+
 
